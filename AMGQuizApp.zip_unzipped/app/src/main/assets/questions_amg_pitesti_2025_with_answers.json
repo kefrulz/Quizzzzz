@@ -1,0 +1,4073 @@
+[
+  {
+    "question": "Elementele de mai jos nu sunt caracteristice hemoragiei arteriale",
+    "options": [
+      "culoarea sangelui este inchisa",
+      "sangele tasneste sincron cu sistola cardiaca",
+      "forta cu care se pierde sangele este concordanta cu tensiunea accidentatului"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Elementele de mai jos sunt caracteristice hemoragiei arteriale",
+    "options": [
+      "exista sansa chiar la arterele mari ca sangerarea sa se opreasca spontan",
+      "culoarea sangelui este inchisa",
+      "sangele tasneste sincron cu sistola cardiaca"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In care dintre hemoragiile de mai jos se pierde mai repede sange",
+    "options": [
+      "hemoragie venoasa",
+      "hemoragie venoasa si capilara",
+      "hemoragie arteriala"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In functie de felul vasului care sangereaza hemoragiile pot fi",
+    "options": [
+      "exteriorizate",
+      "arteriale, venoase, capilare, mixte",
+      "c. interne, externe, interstitiale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hemoragia este",
+    "options": [
+      "eliminarea pe gura a unei cantitati de sange provenind din caile aeriene inferioare",
+      "sangele este incoagulabil ca zatul de cafea",
+      "eliminarea pe gura a unei cantitati de sange aerat, spumos dupa un acces de tuse"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In hemoragiile venoase",
+    "options": [
+      "sangerarea este difuza",
+      "sangele tasneste sincron cu bataile cardiace",
+      "sangele este de culoare inchisa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Hemoragia exteriorizata este hemoragia care se produce atunci cand",
+    "options": [
+      "sangerarea se face in afara organismului",
+      "hemoragia se produce intr-o cavitate iar eliminarea are loc dupa catva timp",
+      "sangele se varsa intr-o cavitate seroasa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hemoragia externa este hemoragia care se produce atunci cand",
+    "options": [
+      "sangele se varsa intr-o cavitate seroasa",
+      "sangerarea se face in afara organismului",
+      "hemoragia se produce intr-o cavitatea iar eliminarea are loc dupa catva timp"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hemoragia interna este hemoragia care se produce atunci cand",
+    "options": [
+      "sangele se varsa intr-o cavitate seroasa",
+      "sangerarea se face in afara organismului",
+      "sangele se face intr-o cavitate iar eliminarea are loc dupa catva timp"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In hemoragiile capilare",
+    "options": [
+      "sangele iese in jet continuu",
+      "sangerarea este difuza",
+      "sangele tasneste sincron cu diastola cardiaca"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ce cantitate de sange are un adult de 80 kg.",
+    "options": [
+      "7 litri",
+      "4-5 litri",
+      "6 litri"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Care din hemoragiile de mai jos se incadreaza in hemoragia interna",
+    "options": [
+      "hematom la nivelul mezenterului",
+      "revarsarea sangelui in cavitatea pleurala",
+      "revarsarea sangelui in vezica urinara"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Care din cauzele de mai jos contribuie in ruptura splinei in doi timpi",
+    "options": [
+      "cedarea rezistentei si ruperea capsulei cu revarsarea sangelui in peritoneu",
+      "fragilitate vasculara",
+      "traumatismul splinei cu hemoragie intrasplenica mentinuta de rezistenta capsulei"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ce fel de hemoragie are un accidentat care are in mod normal 5 litri de sange si a pierdut 1.5 litri",
+    "options": [
+      "hemoragie mica",
+      "hemoragie mare",
+      "hemoragie mijlocie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Care din hemoragiile de mai jos sunt considerate \"hemoragii medicale\"",
+    "options": [
+      "hemoragia prin ruptura de anevrism",
+      "hemoragii datorate unor deficiente ale factorilor de coagulare",
+      "hemoragii in cazul ulcerului gastro-duodenal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cauza agitatiei in faza de inceput a socului hemoragic este data de",
+    "options": [
+      "vasoconstrictie",
+      "anxietate",
+      "lipsa de oxigenare a creierului"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Care din semnele de mai jos sunt relevante intr-o hemoptizie",
+    "options": [
+      "sangele din hemoptizie este incoagulabil",
+      "bolnavul de hemoptizie are o senzatie de caldura retrosternala",
+      "sangele se evacueaza prin varsatura"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Care este cauza tahipneii in cazul unei hemoragii",
+    "options": [
+      "scaderea CO2 din sange si tesuturi",
+      "cresterea cantitatii de CO2 in sange si excitarea centrului respirator din bulb",
+      "cresterea tensiunii arteriale in faza de inceput a hemoragiei"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In cazul unei hemoragii mari, cand tensiunea arteriala scade sub 60-80 mm Hg, cum reactioneaza rinichiul",
+    "options": [
+      "functioneaza normal, urina este hiperconcentrata",
+      "acumularea de metaboliti creste volumul sangerarii",
+      "apare insuficienta renala acuta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cum este pulsul in cursul unei hemoragii mari",
+    "options": [
+      "pulsul este slab batut, filiform",
+      "pulsul este aritmic",
+      "pulsul este bradicardic, bine batut"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Care din procedeele de mai jos pot duce la hemostaza definitiva",
+    "options": [
+      "administrarea de hemostatice, vitamina K, venostat",
+      "legatura si sutura vaselor",
+      "asezarea bolnavului in pozitie de Trendelemburg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Care este cauza scaderii hematocritului dupa oprirea hemoragiei",
+    "options": [
+      "cresterea diurezei",
+      "vasodilatatie, dupa oprirea hemoragiei",
+      "invazia apei din tesuturi in circulatie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Care din factorii de mai jos contribuie la hemostaza spontana",
+    "options": [
+      "transformarea protrombinei sub actiunea tromboplastinei in trombina",
+      "pansamentul compresiv",
+      "aplicare atenta a unui garou"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cum se face hemostaza provizorie cand avem o sangerare la nivelul gatului",
+    "options": [
+      "fixarea gatului intr-o anumita pozitie",
+      "aplicarea unui garou",
+      "compresiune digitala pe plan osos"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Hemostaza provizorie cu ajutorul garoului se face prin aplicare acestuia",
+    "options": [
+      "desupra plagii cand hemoragia provine dintr-o vena",
+      "peste pansamentul de la nivelul plagii",
+      "desupra ranii cand hemoragia provine dintr-o artera"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Melena este un scaun",
+    "options": [
+      "rosu-aprins",
+      "negru ca pacura",
+      "aspect de zat de cafea"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tulburarile care survin in cazul hemoragiilor mijlocii si mari sunt",
+    "options": [
+      "ischemia miocardica",
+      "mentinerea masei circulante in limite normale",
+      "rinichiul functioneaza normal, urina este hiperconcentrata"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Durerea in colica biliara are urmatoarele caracteristici",
+    "options": [
+      "este localizata in hipocondrul drept si iradiaza in regiunea dorso-lombara",
+      "este localizata in hipocondrul drept, iradiaza in membrul inferior si cedeaza la administrare de antispastice",
+      "localizare tipica in epigastru si cedeaza la administrare de morfina"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tabloul clinic in colica biliara se caracterizeaza prin",
+    "options": [
+      "anxietate, bradicardie, dispnee",
+      "febra, varsaturi, frison",
+      "transpiratii reci, hipertensiune arteriala"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Durerea in colica biliara nu se poate combate cu",
+    "options": [
+      "antispastice",
+      "nitroglicerina",
+      "morfina"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nu sunt contraindicate in colica biliara",
+    "options": [
+      "tubajul duodenal",
+      "administrarea de antibiotice",
+      "administrarea de opiacee"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In colica biliara sunt prezente urmatoarele semne",
+    "options": [
+      "tulburari de tranzit",
+      "semnul Murphy prezent",
+      "pozitie antialgica in decubit ven 828d319i tral"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hemostaza provizorie este",
+    "options": [
+      "oprirea fara interventie a unei hemoragii",
+      "hemostaza activa prin care se poate opri un timp limitat o hemoragie",
+      "oprirea definitiva a hemoragiei"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hemostaza spontana este",
+    "options": [
+      "oprirea fara interventie a unei hemoragii",
+      "hemostaza activa prin care se poate opri un timp limitat hemoragia",
+      "oprirea definitiva a hemoragiei"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In primele 3-4 luni de la hemoragie refacerea organismului are loc prin",
+    "options": [
+      "etapa de refacere a fierului",
+      "etapa hematologica",
+      "etapa volemica"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In primele 5-6 zile de la hemoragie refacerea organismului are loc prin",
+    "options": [
+      "etapa volemica",
+      "etapa de refacere a fierului",
+      "etapa hematologica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La un pacient cu hemoragie, insuficienta renala acuta se poate instala atunci cand tensiunea arteriala scade sub",
+    "options": [
+      "100 mm Hg",
+      "140 mm Hg",
+      "60 mm Hg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Hemoragia la nivelul aparatului digestiv exteriorizata prin varsaturi se numeste",
+    "options": [
+      "hematemeza",
+      "hematurie",
+      "hemoptizie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Este contraindicata administrarea in colica biliara",
+    "options": [
+      "papaverina",
+      "nitroglicerina",
+      "morfina"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Este contraindicata administrarea in colica biliara",
+    "options": [
+      "fortral",
+      "colebil",
+      "mialgin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hemoptizia poate fi diferentiata de hematemeza prin faptul ca hemoptizia",
+    "options": [
+      "contine resturi alimentare",
+      "sangele este aerat",
+      "apare in timpul unui efort de varsatura"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Urmatoarele explorari paraclinice confirma prezenta ulcerului gastric",
+    "options": [
+      "VSH crescut",
+      "endoscopia gastrica",
+      "hemoragii oculte"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Examenul radiologic cu sulfat de bariu este indicat in",
+    "options": [
+      "ulcerul stenozant",
+      "colica biliara",
+      "ulcerul perforat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hemoragia",
+    "options": [
+      "exteriorizata din caile nazale se numeste hematemeza",
+      "exteriorizata prin materii fecale se numeste melena",
+      "datorata ruperii varicelor esofagiene se numeste hemoptizie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Durerea cu sediul in hipocondrul drept insotita de greturi si varsaturi",
+    "options": [
+      "colicii renale",
+      "colicii biliare",
+      "infarct de miocard"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Caracteristicile durerii in ulcerul gastro-duodenal sunt",
+    "options": [
+      "durere in hipocondrul drept insotita de greturi si varsaturi",
+      "durere in epigastru, violenta, \"ca o lovitura de pumnal\", cu iradiere in umeri",
+      "durere in etajul abdominal superior intensa, continua, cu iradiere in spate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Manifestarea clinica caracteristica litiazei biliare este",
+    "options": [
+      "hipertensiunea arteriala polipnee",
+      "colica biliara",
+      "tensiune arteriala normala, bradicardie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Simptomele litiazei biliare sunt",
+    "options": [
+      "durere violenta in epigastru",
+      "durere in etajul abdominal superior",
+      "durere \"lovitura de pumnal\""
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pentru ca sangele sa fie apt pentru transfuzie continutul flaconului trebuie sa fie in partea superioara",
+    "options": [
+      "rosu inchis reprezentat de hematii sedimentate",
+      "galben citron reprezentat de plasma",
+      "albicios format din leucocite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sunt cauze de hemoragie digestiva superioara",
+    "options": [
+      "ulcerul aton",
+      "cancerul gastric",
+      "traumatismul cailor biliara"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sunt cauze de hemoragie digestiva superioara",
+    "options": [
+      "rectocolitele ulcerohemoragice",
+      "varice esofagiene",
+      "hemoroizii"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tabloul clinic in hemoragia digestiva superioara se caracterizeaza prin",
+    "options": [
+      "hipertensiune arteriala",
+      "bradicardie",
+      "tendinta la lipotemie in ortostatism"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Hemostaza provizorie cu ajutorul unui garou se face prin aplicarea acestuia",
+    "options": [
+      "deasupra ranii cand hemoragia provine dintr-o artera",
+      "deasupra ranii cand hemoragia provine dintr-o vena",
+      "in plaga cand hemoragia provine dintr-o vena"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hematemeza este",
+    "options": [
+      "varsatura sanghinolenta",
+      "explectoratie sanghinolenta",
+      "scaun sanghinolent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Durerea in ulcerul gastric apare",
+    "options": [
+      "la 3-4 ore dupa masa",
+      "la 30 de minute dupa masa",
+      "nu are legatura cu alimentatia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In ulcerul gastro duodenal se pot administra",
+    "options": [
+      "almagel",
+      "chinidina",
+      "midocalm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Semnul caracteristic in ulcerul gastric perforat este",
+    "options": [
+      "meteorismul",
+      "agitatia extrema",
+      "\"abdomen de lemn\""
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Varsaturile ce contin alimente ingerate cu una-doua zile inainte sunt caracteristice pentru",
+    "options": [
+      "ulcerul gastro-duodenal necomplicat",
+      "varice esofagiene",
+      "stenoza pilorica"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "O hemoragie digestiva in care pacientul a pierdut 1000-1500 ml sange este",
+    "options": [
+      "asimptomatica numai in clinostatism de gravitate medie",
+      "are semne clinice caracterizate prin tahicardie, ameteli, vedere ca prin ceata, lipotemie",
+      "are semnele caracteristice socului hemoragic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "O hemoragie digestiva este medie cand pierderea de sange este intre",
+    "options": [
+      "250-1000 ml iar hemoglobina este mai mare de 10 gr %",
+      "250-500 ml iar hemoglobina este mai mica de 10 gr %",
+      "1000-1500 ml iar hemoglobina este de 10 gr %"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Semnul lui Murphy prezent in colica biliara inseamna ca pacientul prezinta",
+    "options": [
+      "durere la decompresiune brusca a peretelui abdominal",
+      "durere la palparea hipocondrului drept",
+      "durere la palparea hipocondrului stang la inspir profund"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Unde aplicam garoul in cazul unui plagi in treimea medie a coapsei drepte din care tasneste sangele rosu aprins in jet continuu",
+    "options": [
+      "deasupra plagii",
+      "dedesubtul plagii",
+      "peste pansamentul aplicat la nivelul plagii"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Care sunt precautiunile pentru prevenirea socului de garou",
+    "options": [
+      "mentinerea garoului pe o durata cat mai mica",
+      "ridicarea rapida a garoului cand accidentatul a ajuns in serviciul de chirurgie",
+      "ridicarea garoului cat mai incet"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Complicatiaceamaifrecventaaulceruluigastro-duodenaleste",
+    "options": [
+      "cancerul gastric",
+      "hemoragia digestiva",
+      "gastrita cronica"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Simptomatologia in hemoragia digestiva este",
+    "options": [
+      "senzatia de greata, varsaturi, caldura retrosternala",
+      "paloare, transpiratii reci abundente, hipotensiune arteriala",
+      "senzatia de gadilire a laringelui, greturi, varsaturi, hipertensiune arteriala"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sangeledinhemoptizieeste",
+    "options": [
+      "de culoare rosu inchis si cu resturi alimentare",
+      "de culoarea zatului de cafea digerat",
+      "de culoare rosu aprins, aerat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Examenul radiologic in cazul ulcerului gastro-duodenal poate oferi",
+    "options": [
+      "semne directe si indirecte",
+      "hiperaciditate a sucului gastric",
+      "hipoaciditate a sucului gastric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Diagnosticul de certitudine pentru ulcerul gastric se pune pe baza",
+    "options": [
+      "datelor clinice",
+      "examenului radiologic",
+      "examenul sucului gastric"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Examenul util pentru precizarea unor diagnostice nesigure cand este vorba de malignitatea sau benignitatea unui ulcer este",
+    "options": [
+      "examenul radiografic",
+      "gastroscopia",
+      "cercetarea hemoragiilor oculte"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Caracteristicile durerii in ulcerul gastric sunt",
+    "options": [
+      "durere in epigastru, violenta, \"ca o lovitura de pumnal\" cu iradiere dorsala",
+      "durere in hipocondrul drept insotita de greturi si varsaturi",
+      "durere localizata in epigastru insotita de senzatia de arsura"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Hemoptizia consta in eliminarea de sange",
+    "options": [
+      "din cavitatea nazala",
+      "din stomac",
+      "din caile respiratorii inferioare"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In cazul ulcerului sunt prezente urmatoarele simptome",
+    "options": [
+      "durere in epigastru insotita de greturi si varsaturi",
+      "senzatia de arsura retrosternala care cedeaza la repaus, transpiratii profunde",
+      "greturi, varsaturi, caldura retrosternala"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In hemoragia digestiva tratamentul de urgenta este",
+    "options": [
+      "repaus la pat, punga de gheata pe regiunea epigastrica, hemostatice, sedative",
+      "repaus la pat, punga cu gheta pe regiunea epigastrica, provocarea vomei pentru eliminarea sangelui",
+      "repaus la pat, alimentatie lichida, hemostatice, opiacee, sedative"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Culoarea sangelui in hemoragiile esofagiene este",
+    "options": [
+      "rosu aerat, spumos",
+      "rosu neaerat",
+      "rosu inchis, brun"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Colicistita acuta este",
+    "options": [
+      "o infectie a colicistului cu E. Coli",
+      "o inflamatie acuta a colecistului",
+      "o tulburare a motricitatii colecistului"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hemostaza provizorie este corecta daca",
+    "options": [
+      "garoul este mentinut o ora",
+      "garoul este mentinut o ora, pauza 2-3 minute",
+      "garoul este aplicat la extremitatea membrelor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sunt manifestari de incompatibilitate de grup",
+    "options": [
+      "bradipnee respiratorie",
+      "durerile lombare",
+      "inapetenta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Proba de compatibilitate directa se face intre",
+    "options": [
+      "sangele primitorului si sangele donatorului",
+      "plasma primitorului si sangele donatorului",
+      "plasma primitorului si plasma donatorului"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Semnele unei hemoragii mari sunt",
+    "options": [
+      "paliditate, tahicardie si hipertensiune",
+      "paliditate, tahipnee, hipotensiune",
+      "hipotensiune, tahicardie, cianoza"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In metoda Beth-Vincent",
+    "options": [
+      "cunoastem aglutinele si vrem sa determinam aglutinogenul",
+      "cunoastem aglutinogenul si vrem sa determinam aglutina",
+      "vrem sa determinam aglutina cat si aglutinogenul"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Prin metoda Beth-Vincent avem sangele aglutinat in toate cele trei picaturi. Atunci carei grupe corespunde sangele examinat",
+    "options": [
+      "grupa 0(I)",
+      "grupa B(III)",
+      "grupa AB(IV)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Prin metoda Beth-Vincent avem aglutinare in prima si a treia picatura. Atunci carei grupe corespunde sangele examinat",
+    "options": [
+      "grupa A(II)",
+      "grupa B(III)",
+      "grupa 0(I)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Prin metoda Simonin sangele nu se aglutineaza in nici o picatura. Atunci carei grupe apartine sangele aglutinat",
+    "options": [
+      "grupa A(II)",
+      "grupa AB(IV)",
+      "grupa 0(I)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In metoda Simonin cunoastem",
+    "options": [
+      "aglutinogenul si trebuie sa determinam aglutinele",
+      "aglutina cat si aglutinogenul",
+      "aglutinele si trebuie sa determinam aglutinogenul"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Aglutinele anti-RH",
+    "options": [
+      "nu exista la cei nu RH negativ",
+      "nu exista la cei cu RH pozitiv",
+      "exista in ambele situatii"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un pacient cu grupa 0(I) RH pozitiv ce fel de sange poate primi",
+    "options": [
+      "grupa 0(I) RH pozitiv",
+      "grupa A(II) RH negativ",
+      "grupa B(III) RH pozitiv"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ce rol are solutia stabilizatoare care este introdusa in flaconul de sange dupa recoltare",
+    "options": [
+      "anticoagulant",
+      "de conservare",
+      "pentru delimitarea celor 3 zone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Donatorul universal poate deveni \"donator universal periculos\"",
+    "options": [
+      "cand transfuzam cantitati mici de sange 0(I) unui primitor cu alta grupa",
+      "cand transfuzam cantitati mari de sange 0(I) unui primitor cu alta grupa",
+      "cand transfuzam cantitati de sange sub 600 ml"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Care este temperatura optima pentru determinarea grupelor sanguine",
+    "options": [
+      "temperaturi sub 16 grade Celsius",
+      "temperaturi intre 16-18 grade Celsius",
+      "temperaturi in 20-25 grade Celsius"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dupa cat timp se face citirea factorului RH",
+    "options": [
+      "dupa 30 de minute",
+      "dupa 20 de minute",
+      "dupa 60 de minute"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La ce temperatura se lucreaza proba de compatibilitate directa Jeanbrau",
+    "options": [
+      "20-25 grade Celsius",
+      "16-18 grade Celsius",
+      "37 grade Celsius"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Poate avea loc un accident posttransfuzional prin aglutinare si hemoliza",
+    "options": [
+      "cand transfuzam sange de aceeasi grupa cu sangele primitorului",
+      "cand transfuzam sange de grupa diferita de a primitorului peste 600-1000 ml",
+      "cand transfuzam sange de grupa diferita de a primitorului sub 600 ml"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pentru a fi transfuzata plasma uscata trebuie sa aiba urmatorul aspect",
+    "options": [
+      "culoare galbuie alternand cu zone de culoare inchisa",
+      "o culoare galbuie alternand cu zone de plasma lichida",
+      "spongios, asezata pe peretii flaconului, de culoare galbuie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Transfuzia cu sange integral este recomandata in urmatoarele situatii",
+    "options": [
+      "socul prin arsuri",
+      "anemia hemofilicilor in criza hemoragica",
+      "anemii hipocrome produse prin hemoragii cronice"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Urmatoarele afectiuni sunt complicatii la nivelul ficatului a litiazei biliare",
+    "options": [
+      "angiocolita acuta",
+      "fistula biliara",
+      "ciroza hepatica"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Urmatoarele afectiuni sunt complicatii ale litiazei biliare la nivelul tubului digestiv",
+    "options": [
+      "ileus biliar",
+      "dischineziile biliare",
+      "hemocolecistul"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Diagnosticul diferential in cazul ulcerului gastric se poate face cu",
+    "options": [
+      "stenoza pilorica",
+      "cancerul gastric",
+      "litiaza biliara"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Factorii infectiosi determina formarea calculilor biliari astfel",
+    "options": [
+      "prin microstaza creata de modificari distrofice",
+      "modifica compozitia chimica si PH-ul bilei",
+      "modifica concentratia colesterolului infectat in bila"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Care din urmatorii calculi sunt transparenti la razele X",
+    "options": [
+      "calcul de carbonat de calciu",
+      "calculi micsti",
+      "calcul de colesterol"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Accidentele posttransfuzionale prin supraincarcare pot sa apara la urmatorii bolnavi",
+    "options": [
+      "bolnavi astenici",
+      "bolnavi anemici",
+      "bolnavi hipertensivi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cantitatea maxima de sange ce se poate administra in 24 h la bolnavii hipertensivi, renali cronici este",
+    "options": [
+      "600 - 1000 ml",
+      "300 - 600 ml",
+      "200 - 400 ml"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cantitatea de sange care se poate administra in 24 h la bolnavii cu o inima sanatoasa este",
+    "options": [
+      "1000 - 1500 ml",
+      "2000 - 3000 ml",
+      "750 - 1000 ml"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hematuria",
+    "options": [
+      "apare in cazul incompatibilitatii de grup",
+      "apare in socul hemolitic",
+      "apare la administrarea de sange ce contine alergeni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Prezenta corpilor straini la nivelul nasului in cazuri recente determina urmatoarele simptome",
+    "options": [
+      "senzatia de infundare a nasului, hidroree, stranut;",
+      "rinoree mucopurulenta, eczema;",
+      "mucoasa congestionata acoperita cu secretii purulente;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cand corpul strain se afla sub pleoapa apar urmatoarele simptome",
+    "options": [
+      "lacrimare, fotofobie, durere;",
+      "scaderea acuitatii vizuale;",
+      "edem corneean"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Corpii straini conjunctivali care nu sunt inclavati pot fi extrasi",
+    "options": [
+      "cu un tampon de vata curata plasat pe o bagheta de sticla;",
+      "prin spalare abundenta a sacului conjunctival cu apa sau o solutie dezinfectanta;",
+      "extragerea cu ajutorul acelor de corpi straini"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Inflamatia din bronsita acuta intereseaza",
+    "options": [
+      "tot arborele bronsic ;",
+      "bronhiile mari si mijlocii;",
+      "nu intereseaza frecvent traheea;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Bronsita acuta , nu se intilneste in urmatoarele afectiuni",
+    "options": [
+      "pneumonie;",
+      "gripa;",
+      "dilatatia bronhiilor;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Bronsita acuta este",
+    "options": [
+      "o inflamatie acuta a mucoasei bronhiilor mari si mijlocii;",
+      "o hipersecretie a bronhiilor mari si mijlocii;",
+      "o inflamatie subacuta a mucoasei bronsice, interesind frecvent traheea;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Fazeledeevolutieclinicadinbronsitaacutasint",
+    "options": [
+      "catar rinofaringian, faza productive, convalescenta;",
+      "faza de coriza, faza de cruditate, faza de coctiune;",
+      "faza de cruditate, faza de coctiune, faza de vindecare;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Faza de cruditate din bronsita acuta dureaza",
+    "options": [
+      "2-3 zile;",
+      "1-5 zile;",
+      "3-6 zile;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Bronsita acuta",
+    "options": [
+      "dureaza 1-2 saptamini;",
+      "este o inflamatie subacuta a mucoasei bronsice;",
+      "are 2 faze de evolutie;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Simptomatic, in faza de coctiune din bronsita acuta se administreaza",
+    "options": [
+      "expectorante;",
+      "calmante ale tusei;",
+      "codenal;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Bronsita cronica este un sindrom clinic caracterizat prin",
+    "options": [
+      "tuse, insotita de cresterea secretiilor bronsice, permanenta sau intermitenta;",
+      "tuse, insotita de cresterea secretiilor bronsice, cauzata de o boala sau leziune bronhopulmonara specifica;",
+      "tuse insotita de secretii bronsice timp de 2 luni pe an, 3 ani consecutiv;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Bronsita cronica",
+    "options": [
+      "apare la populatia de peste 40de ani( in special barbati)",
+      "este o boala usoara si frecventa;",
+      "nu face parte din tabloul de bronhopneumatie cronica obtructiva nespecifica ;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Bronhopneumopatia cronica obstructiva nepecifica cuprinde, urmatoarele afectiuni",
+    "options": [
+      "astm bronsic, emfizem pulmonar si bronsita acuta;",
+      "astm bronsic, emfizem pulmonar si bronsita cronica;",
+      "bronsita acuta, astm bronsic si fibroza pulmonara;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dintre factorii cauzali ai bronsitei cronice, un loc primordial il ocupa",
+    "options": [
+      "infectia;",
+      "alergia;",
+      "factorii iritanti;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Alergia din bronsita cronica",
+    "options": [
+      "actioneaza prin sensibilizare la pneumoalergeni;",
+      "nu actioneaza prin sensibilizare la alergeni microbieni;",
+      "nu este un factor cauzal;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Inbronsitacronica",
+    "options": [
+      "bolnavul este de obicei afebril;",
+      "dispneea nu creste progresiv;",
+      "cianoza apare precoce;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Explorarea functionala in bronsita cronica evidentiaza",
+    "options": [
+      "cresterea VEMS;",
+      "semne de disfunctie ventilatorie obstructive;",
+      "cresterea debitului ventilator maxim pe minut;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Intr-un stadiu avansat din bronsita cronica, se evidentiaza tabloul clinic de BPOC, care arata ca",
+    "options": [
+      "procesul este difuz, extins si la bronhiolele distale;",
+      "procesul este extins si la bronhiile mari si mijlocii;",
+      "procesul nu este extins si la bronhiolele distale;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In bronsita cronica fiecarepuseu infectios accentueaza fenomenele obstructive prin",
+    "options": [
+      "scaderea secretiei de mucus, relaxare bronsica;",
+      "hipersecretie de mucus, spasm bronsic si decompensare cardiorespiratorie;",
+      "spasm bronsic si scaderea secretiei de mucus;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Astmul bronsic este un sindrom clinic caracterizat prin",
+    "options": [
+      "reducerea generalizata, variabila si reversibila a calibrului bronhiilor, cu crize paroxistice de dispnee expiratorie si raluri sibilante;",
+      "reducerea generalizata, ireversibila a calibrului bronhiilor, cu crize paroxistice de dispnee inspiratorie si raluri sibilante;",
+      "reducereageneralizata si ireversibila a calibrului bronhiilor , cu crize paroxistice de dispnee expiratorie si raluri ronflante;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dispneea paroxistica din astmul bronsic este consecinta urmatorilor fctori, care induc bronhostenoza",
+    "options": [
+      "inflamatia mucoasei bronsice, hiposecretia si spasmul;",
+      "edemul mucoasei bronsice, hipersecretia si spasmul;",
+      "eritemul mucoasei bronsice, hiposecretia si relaxarea musculaturii bronsice;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Bronsita astmatiforma, complicatie a astmului bronsic are una din , urmatoarele caracteristici",
+    "options": [
+      "se manifesta prin crize de dispnee paroxistica de tip inspirator;",
+      "este precedata intotdeauna de crize astmatice;",
+      "nu este urmarea infectarii astmului bronsic;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sfirsitul crizei de astm bronsic este anuntat de",
+    "options": [
+      "aparitia sputei viscoase, albicioase( perlata);",
+      "polipnee si transpiratii profuse;",
+      "aparitia cianozei;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Durata crizei de astm bronsic poate fi",
+    "options": [
+      "de citeva minute sau ore;",
+      "peste 24 de ore;",
+      "de citeva secunde , pina la citva minute;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In tratamentul astmului bronsic, corticoterapia",
+    "options": [
+      "nu se administreaza in formele grave;",
+      "este tratamentul cel mai eficace;",
+      "administrata pe cale orala, nu prezinta riscuri;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Scaderea saturatiei in oxigen a hemoglobinei din singele arterial, din cadrul insuficientei respiratorii cornice, are urmatoarele caracteristici",
+    "options": [
+      "este constanta;",
+      "este inconstanta;",
+      "nu este obligatorie in insuficienta respiratorie cronica;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cresterea presiunii partiale a bioxidului de carbon, in singele arterial din cadrul insuficientei respiratorii cronice, are urmatoarele caracteristici",
+    "options": [
+      "nu caracterizeaza insuficienta respiratorie cronica;",
+      "este inconstanta;",
+      "este constanta;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Modificarile patologice caracteristice, insuficientei respiratorii cronice, pot aparea",
+    "options": [
+      "treptat;",
+      "brusc;",
+      "variabil;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tratamentul profilactic dininsuficienta respiratoriecronica, urmareste",
+    "options": [
+      "tratamentul bolilor care pot compensa insuficienta respiratorie;",
+      "tratamentul corect al bolilor care duc la insuficienta respiratorie;",
+      "restabilirea permeabilitatii bronsice, prin dezobstruare bronsica, cu substante bronho dilatatoare;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Administrarea oxigenului in tratamentul insuficientei respiratorii cronice, este contraindicat, in urmatoarele situatii",
+    "options": [
+      "cind domina cresterea oxigenului in singe;",
+      "cind domina scaderea bioxidului de carbon in singe;",
+      "cind domina cresterea bioxidului de carbon in singe;"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Insuficienta respiratorie acuta se deosebeste de insuficienta respiratorie cronica prin",
+    "options": [
+      "modificarile patologice din insuficienta respiratorie acuta pot aparea treptat;",
+      "circumstantele in care apare si evolutia rapida catre asfixie;",
+      "interventia de reanimare, in insuficienta respiratorie acuta, nu este o urgenta medicala majora;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Simptomatologia in insuficienta acuta, nu depinde de",
+    "options": [
+      "lipsa de oxigen;",
+      "excesul de oxigen;",
+      "retentia de oxigen;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ca fenomen compensator, in insuficienta respiratorie acuta apare",
+    "options": [
+      "bradicardia;",
+      "tahicardia;",
+      "hipertensiunea arteriala;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Encefalopatia respiratorie din cadrul, insuficientei respiratorii acute, apare",
+    "options": [
+      "cind hipercapnia este pronuntata;",
+      "cind hipoxemia este redusa;",
+      "cind apare polipneea;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tratamentul insuficientei respiratorii acute, nu comporta",
+    "options": [
+      "masuri terapeutice generale;",
+      "masuri terapeutice speciale;",
+      "vaccinare antigripala;"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Masurile terapeutice generale, aplicate in insuficientarepiratorie acuta, presupun",
+    "options": [
+      "masuri terapeutice adresate cauzei;",
+      "masuri terapeutice adresate oricarei ,insuficiente respiratorii acute;",
+      "gimnastica respiratorie;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Masurile terapeutice speciale, din cadrulinsuficientei respiratorii acute, au urmatoarele caracteristici",
+    "options": [
+      "se adreseaza cauzei;",
+      "nu se adreseaza oricarei forme de insuficienta respiratorie acuta;",
+      "nu sint obligatorii, in tratamentul insuficientei respiratorii acute;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cauza cea mai frecventa de asfixie, in insuficienta respiratorie acuta, o reprezinta",
+    "options": [
+      "obstruarea cailor aeriene;",
+      "infectiile respiratorii;",
+      "pneumotoraxul;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cea mai eficace masura in dezobstruarea cavitatii bucofaringiene,din insuficienta respiratorie acuta, consta in",
+    "options": [
+      "introducerea policelui in gura bolnavului, la mijlocul mandibulei si tragerea in sus;",
+      "asezarea bolnavului in decubit dorsal;",
+      "introducerea policelui in gura bolnavului si tragerea in jos;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Respiratia \"gura la nas\" , din cadrul tratamentului insuficientei respiratorii acute, se practica",
+    "options": [
+      "cind nu se poate deschide gura victimei;",
+      "prin intermediul canulei;",
+      "numai cind victima nu este constienta;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pneumonia pneumococica este caracterizata prin urmatoarele simptome",
+    "options": [
+      "debutul nu este brutal si nu poate fi bine precizat de bolnav;",
+      "frison ,febra( pina la 40 de grade) junghi thoracic;",
+      "in zilele premergatoare, exista intotdeauna o discreta infectie rinofaringiana;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Perioadadestaredinpneumoniapneumococicaseinstaleaza",
+    "options": [
+      "la 1-2 zile de la debut;",
+      "la 3-4 zile de la debut;"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "la citeva ore de la debut",
+    "options": [
+      "Examenul fizic in pneumonia pneumococica, pune in evidenta, incepind din ziuaadoua:",
+      "raluri sibilante si ronflante;",
+      "in sindrom de condensare pulmonara;",
+      "vibratii vocale diminuate;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In pneumonia pneumococica",
+    "options": [
+      "temperatura se mentine \" in platou\";",
+      "apetitul este crescut;",
+      "bolnavul prezinta poliurie;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Examenul singelui in pneumonia pneumococica evidentiaza",
+    "options": [
+      "leucocitoza cu polinucleoza;",
+      "hipofibrinemie;",
+      "viteza de sedimentare mult incetinita;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Antibioticul de electie, in tratamentul pneumoniei pneumococice este",
+    "options": [
+      "tetraciclina;",
+      "penicilina G;",
+      "ampicilina;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tuberculoza pulmonara este o boala infecto- contagioasa cu urmatoarele caracteristici",
+    "options": [
+      "este provocata de bacilul Koch;",
+      "are de obicei o evolutie acuta;",
+      "afecteaza organismul in intregime, interesind cu precadere plaminul;"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tuberculoza pulmonara este o boala infecto- contagioasa cu urmatoarele caracteristici",
+    "options": [
+      "este provocata de pneumococ;",
+      "pe parcursul ei se deosebesc doua etape: tuberculoza primara si secundara;",
+      "are de obicei o evolutie cronica;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tuberculozapulmonaraareurmatoarelecaracteristici",
+    "options": [
+      "nu afecteaza organismul in intregime;",
+      "este o boala infecto- contagioasa;",
+      "are de obicei o evolutie acuta;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In cazul tuberculozei pulmonare, contaminarea se realizeaza",
+    "options": [
+      "niciodata pe cale cutanata sau transplacentar;",
+      "frecvent pe cale digestiva;",
+      "pe cale aeriana, aproape intotdeauna prin bacilul Koch de tip uman;"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Patrunderea in organism a bacilului Koch determina",
+    "options": [
+      "semne clinice constante;",
+      "reactii la tuberculina negative;",
+      "leziuni anatomice;"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Leziunea initiala( primoinfectia) din tuberculoza pulmonara este situata aproape intotdeauna",
+    "options": [
+      "la nivelul cordului;",
+      "la nivelul pleurei;",
+      "la nivelul plaminului;"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In tuberculoza pulmonara, bacilul Koch se se pune in evidenta in",
+    "options": [
+      "urina;",
+      "expectoratie si lichid de varsatura gastrica;",
+      "lichid cefalo-rahidian;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In cazul tuberculozeimeningiene, bacilul Koch se pune in evidenta in",
+    "options": [
+      "lichid cefalorahidian;",
+      "expectoratie;",
+      "singe;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Leziunea caracteristica a tuberculozei secundare este",
+    "options": [
+      "noduli pulmonari;",
+      "infiltrate pulmonare;",
+      "caverna;"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Diseminarea bacilului Koch in tuberculoza secundara este de obicei",
+    "options": [
+      "bronhogena;",
+      "limfatica;",
+      "hematogena;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Debutultuberculozeisecundarepoatefi",
+    "options": [
+      "asimptomatic, boala fiind descoperita cu ajutorul unui control radiologic;",
+      "intotdeauna acut, brusc;",
+      "precizat datorita frisonului unic, intens, generalizat;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Simptomulfuindamentalaltuberculozeisecundareeste",
+    "options": [
+      "expectoratia;",
+      "tusea;",
+      "durerile toracice;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In tuberculoza secundara, un caracter particular al perioadei de stare il prezinta",
+    "options": [
+      "durerile toracice;",
+      "dispneea;",
+      "febra;"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Dispneea polipneica din insuficienta respiratorie acuta poate apare in",
+    "options": [
+      "procese pulmonare si pleurale;",
+      "procese laringotraheobronsice;",
+      "accidente obstructive ale cailor respiratorii superioare;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cauza principala a anginei pectorale este",
+    "options": [
+      "coronarita;",
+      "ateroscleroza coronariana;",
+      "embolii sau anomalii congenitale ale arterelor coronare;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Crizele din angina pectorala nu dispar la",
+    "options": [
+      "incetarea cauzelor;",
+      "administrarea de nitroglicerina;",
+      "administrarea de miofilin;"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Durata crizelor din angina pectorala este de",
+    "options": [
+      "citeva minute;",
+      "citeva ore;",
+      "1-2 zile;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Simptomulprincipalalangineipectoraleeste",
+    "options": [
+      "tusea seaca;",
+      "dispneea;",
+      "durerea;"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Caracteruldureriidinanginapectoralaeste",
+    "options": [
+      "constrictiv, ca o\" gheara, arsura sau sufocare\";",
+      "restrictiv;",
+      "continuu;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Durereadinanginapectoralaareurmatoarelecaracteristici",
+    "options": [
+      "nu este insotita de anxietate;",
+      "iradierile nu sint obligatorii;",
+      "dureaza peste 15 minute;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Administrarea nitroglicerinei in criza anginoasa se realizeaza",
+    "options": [
+      "intravenos;",
+      "sublingual;",
+      "peros;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Singura medicatie cu actiune prompta in criza din angina pectorala este",
+    "options": [
+      "nitroglicerina;",
+      "propanolol;",
+      "nitropector;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Infarctul miocardic este un sindrom clinic provocat de",
+    "options": [
+      "necroza ischemica a unei portiuni din miocard;",
+      "inflamatia miocardului;",
+      "scaderea oxigenarii unei portiuni din miocard;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Necroza ischemica din infarctul miocardic este determinat de",
+    "options": [
+      "inflamarea in grade variate a unei artere coronare;",
+      "obstruarea brusca a unei artere coronare",
+      "c.obstruarea brusca aunei artere carotide"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ce este dezinfectia?",
+    "options": [
+      "metoda de prevenire a infectiilor plagilor operatorii;",
+      "metoda curativa de distrugere a microbilor dintr-o plaga;",
+      "metoda de indepartare si distrugere a microbilor de pe piele , plagi , obiecte , plosti urinare;"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Infarctul miocardic este",
+    "options": [
+      "o forma clinica a cardiopatiei ischemice, caracterizata prin crize dureroase paroxistice;",
+      "un sindrom clinic provocat de necroza ischemica a unei portiuni din miocard;",
+      "o tulburare produsa de modificarile organice ale arterelor coronare"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cauza principala a infarctului miocardic este",
+    "options": [
+      "aortita luetica ;",
+      "coronarita reumatica ;",
+      "ateroscleroza 90 - 95 %"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In evolutia infarctului miocardic se deosebesc",
+    "options": [
+      "o perioada prodromala, una de debut, de stare si de convalescenta ;",
+      "o perioada de debut, de stare si de convalescenta",
+      "o perioada prodromala, de debut si de convalescenta",
+      "Febra in infarctul miocardic",
+      "dureaza 8-10 zile ;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Leucocitoza in infarctul miocardic",
+    "options": [
+      "scade dupa o luna;",
+      "apare din primele ore;",
+      "ramane constanta timp de 1 saptamana"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cel mai important semn de laborator in infarctul miocardic este",
+    "options": [
+      "leucocitoza ;",
+      "cresterea fibrinogenului ;",
+      "cresterea enzimelor (transaminazelor) din primele are de la debut",
+      "LHD - ul in infarctul miocardic",
+      "incepe sa creasca dupa 4-6 ore de la perioada prodramala ;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Angorul pectoral este un sindrom clinic care tradeaza o suferinta miocardica determinata de",
+    "options": [
+      "tulburarile de ritm ale inimii ;",
+      "un dezechilibru intre necesitatea de oxigen a muschiului inimii si aportul caronarian ;",
+      "un dezechilibru intre aportul de oxigen al muschiului inimi si aportul coronarian"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Criza dureroasa din angorul pectoral",
+    "options": [
+      "nu dispare la administrare de nitroglicerina ;",
+      "apare dupa efort, emotii, mese copiaose ;",
+      "dureaza 2-3 minute, pana la maxim 20 minute"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cauzele favorizante ale angorului pectoral sunt",
+    "options": [
+      "diabetul zaharat, tabagismul, tulburarile de ritm;",
+      "cardiopatiile valvulare;",
+      "hipertensiunea arteriala"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Localizarea durerii in angorul pectoral",
+    "options": [
+      "in umarul stang;",
+      "in regiunea toracica anterioara;",
+      "80-90 % retrosternal de unde se raspandeste catre regiunea precordiala"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Manifestarile clinice ale EPA sunt",
+    "options": [
+      "tuse uscata in prima faza, apoi cu sputa spumoasa rozata, aerata ;",
+      "turgescenta jugularelor, tegumente uscate, palide;",
+      "bradipnee"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In cazul EPA cu TA scazute sunt contraindicate",
+    "options": [
+      "emisiunea de sange, morfina ;",
+      "pozitia trendelenburg ;",
+      "ventilatia mecanica"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La pacientii cu EPA ce au ca afectiuni de baza astm bronsic, AVC, BPOC, se administreaza",
+    "options": [
+      "morfina i.m, i.v. ;",
+      "mialgin i.m, i.v. ;",
+      "ambele"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Conduita de urgenta in IMA este",
+    "options": [
+      "prevenirea mortii subite si preintampinarea complicatiilor ;",
+      "prelungirea timpului pana la internarea in spital ;",
+      "mobilizare precoce"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Atitudinea de urgenta in angina pectorala consta in",
+    "options": [
+      "efectuarea examinarilor (transaminaze, glicemie, leucocite, VSH, radioscopie toracica, ECG)",
+      "oprirea imediata a efortului fizic si administrarea de Nitroglicerina ;",
+      "instituirea regimului igieno-dietetic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Insuficienta cardiaca este",
+    "options": [
+      "o stare anginoasa grava la care lipsesc semnele necrozei miocardice ;",
+      "o tulburare de ritm cu o frecventa ventriculara neregulata ;",
+      "un sindrom clinic care rezulta dinimposibilitatea de a expulza intreaga cantitate de sange primita"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cauzele determinante ale insuficientei cardiace sunt",
+    "options": [
+      "valvulopatii dobandite si congenitale, HTP ;",
+      "hTA ;",
+      "gripa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Manevrele prin care se poate obtine eliberarea cailor respiratorii se pot executa prin",
+    "options": [
+      "curatirea orofaringelui, aspiratia, introducerea unei pipe Guedel;",
+      "pozitiile diferite in care este asezat reanimatorul;",
+      "hiperextensia capului si luxatia posterioara a mandibulei"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Semnele clinice in stopul cardio-respirator sunt",
+    "options": [
+      "pastrarea cunostintei;",
+      "mobilitatea globilor oculari;",
+      "absenta pulsului la artera carotida, oprirea miscarilor respiratorii, toracice si abdominale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Miopatia este o boala caracterizata prin",
+    "options": [
+      "dificultatea de a decontracta muschii",
+      "deficit muscular cu fatigabilitate musculara care apare sau se accentueaza la efort",
+      "slabiciune progresiva , atrofii musculare bilaterale si simetrice, interesând în principal muschii de la radacina membrelor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Polimiozita este o",
+    "options": [
+      "inflamatie difuza a muschilor care pot cuprindetegumente si/sau nervi învecinati",
+      "afectiune de obicei congenitala",
+      "afectiune caracterizata prin deficit muscular"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Miotonia este o afectiune de obicei congenitala caracterizata prin",
+    "options": [
+      "deficit muscular care apare sau se accentueaza la efort",
+      "slabiciune progresiva , atrofii musculare bilaterale si simetrice",
+      "dificultatea de a decontracta muschii"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Sindromul de neuron motor periferic reprezinta",
+    "options": [
+      "ansamblul de simptome si semne provocate de leziunea neuronului motor periferic pe traiectul sau medular, radicular sau trunchiular",
+      "o boala virala care atinge celulele motorii din coarnele anterioare ale maduvii spinarii",
+      "o afectiune degenerativa simetrica a cornului medular anterior"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Poliomielita anterioara acuta sau Maladia Heine Medine este",
+    "options": [
+      "o afectiune degenerativa simetrica a cornului medular anterior",
+      "o boala virala care atinge celulele motorii din coarnele anterioare ale maduvei spinarii",
+      "o boala degenerativa care apare la vârsta adulta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Scleroza laterala amiotrofica debuteaza între",
+    "options": [
+      "20-40 ani",
+      "10-20 ani",
+      "40-60 ani"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Poliomielita anterioara cronica este",
+    "options": [
+      "o boala virala care atinge celulele motorii din coarnele anterioare ale maduvei spinarii",
+      "o afectiune degenerativa simetrica a cornului medular anterior",
+      "o boala cronica si progresiva"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "\"Sindromul cozii de cal\" se caracterizeaza prin",
+    "options": [
+      "paralizia flasca a membrelor inferioare cu reflexe abolite, atrofii si tulburari de sensibilitate, tulburari sfincteriene si genitale",
+      "sindrom senzitivo-motor, bilateral si simetric , cu aspect polinevritic",
+      "formarea unor cavitati în portiunea centrala a maduvii sau a bulbului"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Plexitele se caracterizeaza prin",
+    "options": [
+      "sindrom senzitivo-motor bilateral si simetric",
+      "sindrom de neuron motor periferic, la care se asociaza adesea tulburari de sensibilitate",
+      "paralizia flasca a membrelor inferioare"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nevritele se datoresc",
+    "options": [
+      "unor viroze, compresiuni (fracturi, tumori) sau unor traumatisme ale nervilor",
+      "unui tratament insuficient",
+      "unui proces inflamator local"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Paralizia faciala este caracterizata prin",
+    "options": [
+      "deficit motor la nivelul degetelor, în special a policelui",
+      "tulburari motorii, senzitive si trofice",
+      "stergerea cutelor fruntii de partea bolnava, imposibilitatea închiderii complete a ochiului, deviatia gurii spre partea sanatoasa, imposibilitatea de a fluiera"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tratamentul paraliziei nervilor este",
+    "options": [
+      "în primul rând etiologic, eventual chirurgical sau ortopedic",
+      "consta în Roentgenterapie",
+      "nespecific (vasodilatatoare, masuri de igiena)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Sindromul de neuron motor central sau sindromul piramidal apare",
+    "options": [
+      "în accidente vasculare cerebrale, tumori cerebrale si medulare, mielite, fracturi de rahis, scleroza laterala amiotrofica",
+      "în leziunea corpului celular sau a fibrelor acestuia",
+      "apare mai ales vara si toamna"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Hemiplegia flasca se caracterizeaza prin",
+    "options": [
+      "forta musculara de obicei diminuata mult",
+      "semne de paralizie faciala,hipotonie si reflexe osteotendinoase abolite, semnul Babinski prezent",
+      "absenta semnului Babinski si a tulburarilor sfincteriene"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ateroscleroza cerebrala debuteaza",
+    "options": [
+      "lent, prin tulburari nevrotice: cefalee, astenie, insomnie, vâjâituri în urechi, ameteli, tulburari de memorie",
+      "în jurul vârstei de aproximativ 45 de ani",
+      "mai frecvent la femei în perioada de menopauza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Evolutia aterosclerozei dureaza între",
+    "options": [
+      "2-15 ani",
+      "1-2 ani",
+      "10-20 ani"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Psihoza maniaco-depresiva se manifestata clinic prin",
+    "options": [
+      "stare depresiva, anxietate cu idei delirante, halucinatii auditive, iluzii verbale",
+      "accese periodice de manie sau melancolie, sau prin alterarea acestor doua forme de boala",
+      "c.tulburari de memorie, de atentie, dezorientare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tratamentul aterosclerozei cerebrale consta în",
+    "options": [
+      "odihna, administrare de hormoni (foliculina), Gerovital, Mecopar, Vit. B6, tranchilizante,neuroleptice",
+      "regim alimentar bogat în vitamine, sarac în substante azotoase",
+      "tratament cu antibiotice, tonice cardiace, vitamine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tabloul clinic al melancoliei este caracterizat prin",
+    "options": [
+      "indispozitie , tulburari digestive, tulburari respiratorii sau tulburari psihice;",
+      "dispozitie trista, idiotie încetinita, aparitia unei senzatii neplacute cu lipsa poftei de mâncare, lipsa de imbold în activitate, abatut, vorbeste în soapta",
+      "tulburari în sfera activitatii si vointei"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La un bolnav cu arsuri de gradul I pe 20% din suprafata corpului evoloutia se complica",
+    "options": [
+      "cu soc hipovolemic",
+      "nu se complica",
+      "cu soc toxico-septic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Gasim flictene cu continut sero-citrin in ?",
+    "options": [
+      "arsura de gradul I",
+      "arsura de gradul II",
+      "arsura de gradul III-IV"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "216 In arsurile de gradul II si de gradul III durerile sunt",
+    "options": [
+      "de aceeasi intensitate",
+      "în arsurile de grd III sunt mai mici decât în arsurile de grd II",
+      "in arsurile grd III sunt mai mari decât durerile din arsurile grd II"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Arsurile de gradul IV sunt mai putin provocatoare de soc imediat deoarece",
+    "options": [
+      "plasmoragia nu se produce din cauza ca sunt mai profunde",
+      "terminatiile din derm sunt distruse",
+      "organismul se adapteaza mai usor la arsurile de grd IV"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nefrita acuta, bronhopneumonie, embolia pulmonara, hemoragia digestiva, aparute drept complicatii în arsura se datoreaza",
+    "options": [
+      "intoxicatiei masive a organismului cu substante toxice resorbite din regiunea arsa",
+      "socului hipovolemic",
+      "profunzimii arsurilor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "În cazul unui accident colectiv, primii evacuati spre unitatile sanitare de specialitate vor fi",
+    "options": [
+      "accidentatii agitati",
+      "arsii apatici care reactioneaza lent si numai la stimuli puternici",
+      "arsii cu leziuni combinate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Profilaxia antitetanica în arsuri întinse se face cu",
+    "options": [
+      "A.T.P.A 0.5 ml",
+      "ser antitetanic 3000 U",
+      "A.T.P. A si ser antitetanic 3000 U"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In cazul in care un accidentat adus la spital este in stare de soc interventia prioritara consta in",
+    "options": [
+      "îndepartarea flictenelor si a corpilor straini",
+      "efectuarea tratamentului antisoc, concomitent cu îndepartarea hainelor, dezinfectia tegumentelor si îndepartarea flictenelor",
+      "efectuarea tratamentului antisoc înaintea oricarei manevre chirurgicale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "În cazul în care evolutia arsurilor este favorabila, se considera perioada optima pentru grefare",
+    "options": [
+      "primele zile de la producerea arsurii",
+      "a treia saptamâna (14-16 zile)",
+      "oricând, arsul sa nu fie în soc si sa nu prezinte infectie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La bolnavii cu leziuni profunde ale capului, fetei si care prezinta arsuri ale cailor respiratorii se va efectua",
+    "options": [
+      "dezobstructia cailor respiratorii",
+      "anestezie a cailor respiratorii superioare, oxigenoterapie",
+      "traheostomie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La arsii cu leziuni circulare pe membre, pentru prevenirea fenomenelor de ischemie periferica, se va practica",
+    "options": [
+      "excizia completa a escarelor",
+      "excizia partiala a escarelor",
+      "incizii de decompresiune, care traverseaza regiunea de escara de la un cap la altul, depasind-o în tesut sanatos în profunzime"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cum se calculeaza cantitatea de lichide ce trebuie administrata în primele 3-4 zile unui ars?",
+    "options": [
+      "necesarul de lichide este de 1 ml pentru fiecare procent de suprafata arsa, înmultit cu suprafata arsa si greutatea corporala",
+      "se administreaza câte 50 ml pentru fiecare procent de suprafata arsa",
+      "se calculeaza înmultind suprafata arsa cu profunzimea arsurii"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Care din caracteristicele de mai jos corespund arsurile produse de baze chimice?",
+    "options": [
+      "escarele de culoare galben bruna ce apar imediat",
+      "escarele se formeaza lent, actionând si dupa accident, transformându-se dintr- un grad inferior în grad superior",
+      "nu au caracteristici speciale, toate substantele chimice produc acelasi tip de arsuri"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Pentru neutralizarea acizilor în caz de arsuri, se vor folosi",
+    "options": [
+      "cloramina, apa oxigenata",
+      "amoniac 1%, bicarbonat de sodiu",
+      "ser fiziologic, apa sterila",
+      "În cazul electrocutarii, local, se produc arsuri de gradul",
+      "II"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Daca din motive obiective sondajul vezical nu se poate efectua, se practica",
+    "options": [
+      "administrarea de substante medicamentoase diuretice",
+      "punctie vezicala deasupra simfizei pubiene pe linie mediana",
+      "reinterventie chirurgicala"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Profilaxiaescarei postoperatorii este adesea dificila, dar este mai usoara decat tratamentul ulceratiei costituite. Ea urmareste",
+    "options": [
+      "suprimarea presiunii, asigurarea unei bune stari a tegumenetelor expuse, mentinerea unei bune nutritii",
+      "toaleta tegumentelor si mentinerea zonelor de spijin maxim pentru a nu leza si alte zone",
+      "starea lenjeriei si mentinerea unei bune nutritii nu prezinta importanta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In profilaxia escarelor postoperatorii, suprimarea presiunii de pe ariile cutanate amenintate se poate realiza prin",
+    "options": [
+      "mobilizarea precoce, schimbarea pozitiei in pat, asigurarea unei lenjerii corespunzatoare",
+      "imobilizarea bolnavului la pat fara a-i schimba pozitia decat odata cu schimbarea pansamentului",
+      "asigurarea unei alimentatii deshidratante si schimbarea pozitiei in pat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In hemoragiile postoperatorii care se manifesta ca hemoragii intraperitoneale se impune",
+    "options": [
+      "reinterventia chirurgicala de urgenta sub protectia transfuziei de sange",
+      "numai tratament medical cu hemostatice"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "numai punga cu gheata local 233.Meteorismul abdominal postoperator poate fi",
+    "options": [
+      "un simplu ileus dinamic pasager",
+      "complicatie digestiva postoperatorie grava",
+      "un incident intraoperator"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ajutam la disparitia meteorismului abdominal postoperator prin",
+    "options": [
+      "aspiratie gastrica",
+      "plasarea unui tub de gaze in anus",
+      "clisma evacuatorie imediat dupa interventia chirurgicala"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In cazul aparitiei in postoperator al ileusului paralitic",
+    "options": [
+      "se face aspiratie gastrica, se corecteaza tulburarile hidroelectrolitice, se face clisma evacuatorie",
+      "se administreaza purgative si alimentatie semilichida",
+      "se alimenteaza bolnavul normal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se reintervine chirurgical daca ileusul paralitic postoperator",
+    "options": [
+      "este adinamic",
+      "este consecinta unei peritonite",
+      "nu cedeaza la tratament cu miostin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ocluzia mecanica postoperatorie este mai frecventa dupa interventiile chirurgicale pentru",
+    "options": [
+      "abdomen acut traumatic",
+      "abdomen acut netraumatic",
+      "rezolvarea unor aderente sau bride"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Varsaturile care apar imediat dupa interventia chirurgicala au drept cauza",
+    "options": [
+      "narcoza si iritatia peritoneala",
+      "aparitia unui ulcer de stres"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "nu s-a administrat clisma evacuatorie in preziua operatiei 239.Complicatia cea mai grava a trombozelor din sistemul cav inferior este",
+    "options": [
+      "edemul pulmonar acut",
+      "embolia pulmonara",
+      "tromboflebita postoperatorie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Profilaxia emboliei pulmonare postoperatorii urmareste prevenirea trombozelor venoase si a declansarii tromboemboliei in",
+    "options": [
+      "preoperator",
+      "postoperator",
+      "pre -, intra - si postoperator"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tratamentul curativ in embolia pulmonara are urmatoarele obiective",
+    "options": [
+      "terapia socului, asfixiei, durerii si hipercoagulabilitatii",
+      "terapia asfixiei, durerii si administrarea de hemostatice",
+      "administrarea de solutii perfuzabile in cantitate cat mai mare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Infarctul miocardic apare frecvent in postoperator",
+    "options": [
+      "la persoane obeze, diabetice,care prezinta un risc mare cardiovascular",
+      "la toti cardiacii, indiferent de amploarea interventiei chirurgicale",
+      "la hipertensivi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tratamentul profilactic in sindromul Mendelshon consta in",
+    "options": [
+      "golirea preoperatorie a stomacului, sonda de aspiratie gastrica, combaterea anxietatii",
+      "golirea preoperatorie a tubului digestiv prin suprimarea alimentatiei si clisma evacuatorie",
+      "administarea de inhibitori de secretie gastrica"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In atelectazia pulmonara postoperatorie tratamentul curativ va urmari",
+    "options": [
+      "dezobstructia bronhiilor si antibioterapie",
+      "calmarea tusei si antibioterapie",
+      "administrarea de vitamine si antiinflamatorii"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Complicatiile respiratorii apar adeseori la bolnavii care au stat mult dupa interventia chirurgicala in pozitia",
+    "options": [
+      "decubit lateral stang",
+      "decubit dorsal",
+      "decubit ventral"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Atunci candse practica interventie chirurgicala pe abdomenul superior si esofag, cea mai obisnuita complicatie respiratorie in postoperator este",
+    "options": [
+      "insuficienta respiratorie acuta",
+      "atelectazia pulmonara",
+      "bronchopneumonia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In laringotraheita determinata de intubatia orotraheala tratamentul consta in",
+    "options": [
+      "comprese reci in jurul gatului, repaus vocal, aerosoli, antitusive, antibiotice generale",
+      "comprese calde in jurul gatului, repaus vocal, aerosoli, antitusive, antibiotice generale",
+      "nu necesita tratament medical"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In abcesul fesier, aparut in postoperator, tratamentul este chirurgical",
+    "options": [
+      "in faza de congestie",
+      "in faza de colectie",
+      "cand zona este indurate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cea mai grava complicatie infectioasa postoperatorie este",
+    "options": [
+      "septicemia postoperatorie",
+      "abcesul fesier",
+      "infectarea plagii chirurgicale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tratamentul profilactic in infectia urinara, casi complicatie infectioasa postoperatorie, consta in",
+    "options": [
+      "aplicarea de rutina a sondajului vezical",
+      "aplicarea sondajului vezical in orice conditii",
+      "aplicarea sondajului vezical, numai daca este indicatie precisa si numai in conditii de asepsie perfecta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ulcerul gastro-duodenal perforat este cea mai frecventa si grava complicatie a ulcerului gastro- duodenal si afecteaza in cel mai mare procent",
+    "options": [
+      "femeile peste 50 ani",
+      "barbatii intre 30 si 50 ani",
+      "femeile intre 30 si 50 ani"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Diagnosticul diferential dintre o apendicita acuta si o sarcina extrauterina rupta poate fi facut prin",
+    "options": [
+      "rezultatul hemoleucogramei",
+      "sediul durerii"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "starea generala, culoarea tegumentelor, rezultatul leucogramei 253.Colangiografia exploreaza",
+    "options": [
+      "vezica biliara si caile biliare extrahepatice",
+      "vezica biliara",
+      "colonel"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "254.Examenul de urina se face obligatoriu in preoperator",
+    "options": [
+      "numai la bolnavii care vor fi supusi la interventii chirurgicale renale",
+      "la toti bolnavii chirurgicali"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "la bolnavii care au ureea sanguina crescuta 255.Determinarea grupului sanguin si Rh- ului este obligatorie",
+    "options": [
+      "numai la bolnavii care necesita transfuzie",
+      "la bolnavii internati in serviciu de chirurgie",
+      "numai la bolnavii cu hemoragii"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "256.Se gaseste un numar crescut de trombocite in urmatoarele situatii",
+    "options": [
+      "traumatisme osoase usoare",
+      "dupa hemoragii, splenesctomii, traumatisme abdominale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "dupa iradieri severe, aplazie medulara, leucemie acuta 257.Hemocultura reprezinta o analiza a sangelui care se recomanda in cursul",
+    "options": [
+      "unei infectii urinare pentru identificarea agentului patogen",
+      "unei septicemia pentru identificarea agentului patogen",
+      "unei hemoragii pentru identificarea unei cauze infectioase"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dupa producerea unui traumatism abdominal inchis, decesul poate surveni in cateva minute de la accident prin",
+    "options": [
+      "soc sau hemoragie masiva",
+      "hemoragie interna lenta",
+      "leziuni parietale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Daca dupa 6-8 ore starea generala a unui pacient cu traumatism abdominal, tinut sub observatie si tratament, nici nu se amelioreaza, nici nu se inrautateste",
+    "options": [
+      "se efectueaza interventie chirurgicala exploratorie",
+      "se externeaza pacientul",
+      "se administreaza antialgice si se reia alimentatia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Unui pacient cu traumatism abdominal inchis i se poate pune diagnosticul de ruptura de stomac, daca radiografia abdominala ( pe gol) arata",
+    "options": [
+      "prezenta aerului in cavitatea peritoneala",
+      "prezenta lichidului in cavitatea peritoneala",
+      "nu arata nici o modificare"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sub denumirea de plagi ale abdomenului sunt cuprinse toate leziunile determinate de un traumatism care",
+    "options": [
+      "intereseaza si deschide peretele abdominal",
+      "nu intereseaza peretele abdominal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "produce leziuni viscerale, dar nu lasa nici o urma pe peretele abdominal 262.Cele mai frecvente hemoragii \"in doi timpi\" sunt cele",
+    "options": [
+      "ale ficatului",
+      "ale pancreasului",
+      "ale splinei"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La hemoragia interna \"in doi timpi\", timpul intai consta in",
+    "options": [
+      "hemoragia intra- sau subcapsulara",
+      "ruperea capsulei si evacuarea sangelui in cavitatea abdominala",
+      "sangele curge liber in abdomen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pancreatita acuta este un sindrom abdominal acut caracterizat prin",
+    "options": [
+      "dureri abdominale violente in etajul superior si alterare marcata a starii generale",
+      "durere in hipocondrul drept cu iradiere in umar, stare generala usor alterata"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "dureri in fosa iliaca dreapta cu greturi si varsaturi 265.Persoanele predispuse la imbolnavirea de pancreatita acuta sunt",
+    "options": [
+      "bolnavii subponderali",
+      "bolnavii cu ulcer perforat",
+      "adultii obezi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Pancreatita acuta se produce prin autodigestia glandei de catre",
+    "options": [
+      "tripsina",
+      "amilaza",
+      "tripsinogen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tulburarile in evacuarea secretiei pancreatice in duoden, prin dereglari functionale ale sfincterului Oddi duc la",
+    "options": [
+      "inflamarea pancreasului",
+      "necrozarea pancreasului",
+      "autodigestia pancreasului"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Contuzia abdominala poate determina moartea in cateva zile de la producerea accidentului prin",
+    "options": [
+      "hemoragie \"in doi timpi\"",
+      "hemoragie interna lenta",
+      "leziuni parietale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Diagnosticul de certitudine al ulcerului gastro-duodenal perforat se sprijina pe",
+    "options": [
+      "antecedente ulceroase",
+      "caracterul durerii si fenomenele digestive",
+      "disparitiamatitatiihepatice,punctiaabdominalapozitivasiprezenta pneumotoraxului"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Colecistita acuta este",
+    "options": [
+      "o inflamatie acuta a peretului colecistic",
+      "o inflamatie acuta a caii biliare extrahepatice"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "o tulburare a motricitatii veziculei biliare 271.Diskineziile biliare reprezinta",
+    "options": [
+      "tulburari date de parazitozele intraveziculare",
+      "tulburari ale cailor biliare",
+      "tulburarii ale motricitatii veziculei biliare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "272.Diagnosticul prezumtiv clinic de perforatie ulceroasa se sprijina pe",
+    "options": [
+      "caracterul durerii, semnele de peritonita si antecedentele ulceroase",
+      "caracterul durerii si fenomenele digestive"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "starea generala a bolnavului si prezenta fenomenelor digestive 273.Apendicita acuta are un singur tratament",
+    "options": [
+      "medical",
+      "medico- chirurgical",
+      "chirurgical de urgenta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La un pacient cu abdomen acut, la care diagnosticul nu s-a precizat inca, este contraindicat sa se administreze",
+    "options": [
+      "barbiturice",
+      "antialgice",
+      "antialgice majore (morfina, mialgin)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cea mai frecventa forma a perforatiei ulcerului gastro-duodenal este",
+    "options": [
+      "in organele din vecinatate",
+      "perforatia acoperita",
+      "in peritoneul liber"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In evolutia sindromului ocluziv, tulburarile electrolitice care influenteaza negativ s ctarea bolnavului, ducand la soc, sunt",
+    "options": [
+      "scaderea Cl+ sanguin, cresterea K+ si a ureei",
+      "hemoconcentratia",
+      "scaderea Ca+"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Perforatia acoperita a ulcerului gastro-duodenal poate fi gasita in urmatoarele situatii",
+    "options": [
+      "cand orificiul de perforatie este mic si suplu",
+      "cand orificiul de perforatie se face pe un ulcer netratat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "cand orificiul de perforatie se deschide in stomacul plin 278Angiocolitele sunt afectiuni inflamatorii",
+    "options": [
+      "ale colecistului",
+      "ale cailor biliare extra si intra hepatice"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "ale colecistului si ale cailor biliare 279.Colica biliara se instaleaza frecvent",
+    "options": [
+      "din cauza nealimentarii la timp",
+      "dupa o masa bogata in legume si fructe",
+      "dupa o masa bogata in grasimi sau alimente cu efect colecistochinetic recunoscut"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Prezenta contracturii abdominale pe toata aria abdomenului, formand asa zisul \" abdomen de lemn\" , se intalneste in",
+    "options": [
+      "ocluzia intestinala",
+      "apendicita acuta",
+      "ulcerul duodenal perforat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Daca un bolnav se prezinta in urgenta, avand o durere violenta in epigastru, ca o lovitura de pumnal, cu iradiere in hipocondrul drept, paloare, lipotimie, accelerarea pulsului, imobilitatea respiratiei in etajul abdominal superior, ne gandim la",
+    "options": [
+      "pancreatita acuta",
+      "apendicita acuta perforata",
+      "ulcer gastro- duodenal perforat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In evolutia unei apendicite acute, peritonita acuta poate aparea",
+    "options": [
+      "inaintea declansarii simpomatologiei apendiculare",
+      "odata cu peritonita plastica localizata",
+      "in primele 24-48 ore de la debutul crizei apendiculare"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Aspectul anatomo- patologic al unei apendicite acute flegmonoase este",
+    "options": [
+      "apendice marit de volum, cu aspect de \"limba de clopot\"",
+      "apendice de culoare neagra- verzuie si aspect de \"frunza vesteda\"",
+      "apendice congestionat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Intr-o litiaza biliara coloratia icterica persistenta a sclerelor, mucoaselor si tegumentelor poate fi data de",
+    "options": [
+      "inflamatia peretului colecistic",
+      "prezenta unui obstacol in coledoc"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "un proces inflamator al cailor biliare 285.Volvulus- ul intestinal se traduce prin",
+    "options": [
+      "rasucirea anselor intestinale",
+      "un proces inflamator aparut dupa o interventie chirurgicala"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "un inel de eventratie in care intra o ansa intestinala 286.Un plastron colecistic se poate trata astfel",
+    "options": [
+      "interventie chirurgicala de urgenta",
+      "antispastice, antibioterapie, regim alimentar",
+      "regim alimentar, tratament medical, completat cu tratament chirurgical, peste 6-8 saptamani, dupa \"racire\""
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pentru prevenirea complicatiilor pulmonare ce pot aparea dupa interventiile chirurgicale pe tubul digestiv, se iau urmatoarele masuri cu pacientul operat",
+    "options": [
+      "pozitionarea corespunzatoare, mobilizarea precoce, gimnastica respiratorie",
+      "administrarea antibioticelor si mobilizarea",
+      "combaterea tusei si gimnastica respirator"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In perforatia urmatorului organ din cavitatea abdominala nu apare radiologic pneumoperitoneul",
+    "options": [
+      "stomacului",
+      "colonului",
+      "veziculei biliare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In cazul unui abdomen acut chirurgical, cu semne de peritonita instalate, interventia chirurgicala este obligatoriu sa se practice in",
+    "options": [
+      "10-12 ore de la instalarea semnelor de peritonita",
+      "5-6 ore de la instalarea semnelor de peritonita"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "8-10 ore de la instalarea semnelor de peritonita 290.Bolnavii suferinzi de colecistita acuta trebuie neaparat",
+    "options": [
+      "spitalizati si operati",
+      "spitalizati si tratati medical"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "tratati la domiciliu sub supravegherea medicului de familie 291.Aspectul anatomo- patologic al unei apendicite acute gangrenoase",
+    "options": [
+      "apendice marit de volum cu aspect de \"limba de clopot\"",
+      "apendice de culoare neagra- verzuie si aspect de \"frunza vesteda\"",
+      "apendice congestionat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tratamentul in plastronul apendicular consta in",
+    "options": [
+      "se trateaza medical si, dupa racirea procesului, se intervine chirurgical",
+      "se intervine chirurgical de urgenta",
+      "se trateaza medical"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Plagile abdominale penetrante sunt plagile in care agentul traumatic a penetrat",
+    "options": [
+      "in peritoneu, dar a lezat si perforat mai multe organe",
+      "in peritoneu, dar a lezat un organ"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "in peritoneu, dar nu a lezat nici un organ 294.Plastronul apendicular este",
+    "options": [
+      "o peritonita plastica",
+      "o tumora maligna apendiculara",
+      "o inflamatie a apendicului"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In ocluziile intestinale vechi, varsaturile sunt",
+    "options": [
+      "fecaloide",
+      "bilioase",
+      "alimentare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Varsaturile fecaloide apar precoce in ocluziile",
+    "options": [
+      "intestinale inalte",
+      "intestinale joase",
+      "intestinale functionale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Bolnavul care a suferit un traumatism abdominal va fi asezat corect in pozitia",
+    "options": [
+      "de decubit dorsal cu membrele pelviene usor flectate (sub genunchi se aseaza o patura rulata sau o perna",
+      "de decubit lateral drept sau stang, de partea traumatismului",
+      "semisezanda,cugenunchiiflectati,pentruaasiguracompresiunea abdomenului"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Conduita de urgenta in ocluzia intestinala mecanica instalata de foarte scurt timp consta in",
+    "options": [
+      "linistirea pacientului, sonda de aspiratie gastrica, clisma pentru golirea segmentului de sub ocluzie",
+      "hidratare, clisma evacuatorie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "sedarea pacientului si reluarea treptata a alimentatiei 299.Plagile abdominale care prezinta o mai mare gravitate sunt",
+    "options": [
+      "cele perforante",
+      "cele penetrante"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "cele care intereseaza numai peretele abdominal 300.Prin ulcerul gastro-duodenal intelegem",
+    "options": [
+      "deschiderea ulcerului in cavitatea libera peritoneala",
+      "deschiderea ulcerului intr-un organ plin (ficat, pancreas)",
+      "perforatia peritoneului"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Daca prin plaga abdominala se scurge bila sau continut gastric, plaga",
+    "options": [
+      "este penetranta",
+      "intereseaza calea biliara sau stomacul",
+      "intereseaza numai peretele abdominal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un abdomen acut chirurgical cu sediul durerii juxtapubian arata o perforatie a",
+    "options": [
+      "stomacului si duodenului",
+      "uterului"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "intestinului mezenterial si colonului 303.In apendicita acuta perforata durerea este",
+    "options": [
+      "violenta, cu prezenta \" abdomenului de lemn\"",
+      "violenta, generalizata de la inceput in intreg abdomenul"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "initiala in fosa iliaca dreapta, brusca, violenta 304.Tratamentul chirurgical al unei colecistite acute consta in",
+    "options": [
+      "colecistectomie",
+      "colecistostomie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "colecistectomie cu coledocotomie 305.Colecistita acuta reprezinta",
+    "options": [
+      "inflamatia acuta a peretului vezicular, coexistand in majoritatea cazurilor cu un obstacol infundibulo-cistic",
+      "inflamatia cailor biliare extrahepatice",
+      "inflamatia acuta a peretilor cailor biliare coexistand cu prezenta unui calcul in coledoc"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Coloratia subicterica a sclerelor, mucoaselor si tegumentelor poate fi data de",
+    "options": [
+      "spasmul reflex al sfincterului Oddi",
+      "prezenta unui obstacol in coledoc",
+      "dischinezia biliara"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Intr-o pancreatita acuta, cu evolutie fara complicatii, tratamentul de baza este medical si in conducerea tratamentului se va tine seama de",
+    "options": [
+      "evolutia starii generale, a febrei, a leucocitozei, a amilazemiei",
+      "evolutia durerii si posibilitatea de reluare rapida a alimentatiei"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "sedarea bolnavului si reluarea cat mai rapid a vietii normale 308.Colecistectomia cu coledocotomie se practica ca tratament chirurgical in",
+    "options": [
+      "colecistita acuta",
+      "colecistita acuta cu calcul prezent si in coledoc",
+      "dischinezia biliara"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "309.In cazul unei ocluzii intestinale mecanice instalate de mai multa vreme, atitudinea de urgenta consta in",
+    "options": [
+      "montarea unei sonde de aspiratie gastrica, abord venos pentru recoltarea sangelui in vederea efectuarii probelor de laborator si montarea unei perfuzii pentru reechilibrarea hidroelectrolitica",
+      "recoltarea sangelui in vederea determinarii unor probe de laborator si calmarea durerii"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "se face direct interventia chirurgicala 310.Peritonita acuta difuza rezulta din",
+    "options": [
+      "localizarea unui proces infectios la nivelul unui organ din cavitatea abdominala",
+      "reactia locala a peritoneului si viscerelor abdominale si reactia generala determinata de actiunea agresiva a germenilor ajunsi in peritoneu",
+      "patrunderea germenilor in cavitatea abdominala si inflamarea locului de patrundere"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Peritonita acuta difuza poate fi secundara patrunderii germenilor prin",
+    "options": [
+      "perforarea unui organ cavitar datorata unui proces patologic sau traumatic",
+      "perforarea peritoneului si localizarea procesului infectios la perete",
+      "prin localizarea procesului infectios la nivelul unui organ cavitar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ingrijirea postoperatorie, dupa rezolvarea chirurgicala a unei ocluzii intestinale mecanice, consta in",
+    "options": [
+      "calmarea durerii si reluarea alimentatiei",
+      "se continua tratamentul de reechilibrare hemodinamica, de refacere a starii generale pana la reluarea tranzitului",
+      "ingrijirea plagii operatorii si reluarea alimentatiei"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In peritonita acuta, secundara ulcerului gastric perforat, datorita caracterului foarte iritant al sucului gastric ajuns in peritoneu, simptomul caracteristic este",
+    "options": [
+      "durerea extrem de vie in epigastru, care nu se generalizeaza in tot abdomenul, dar este insotita de greturi si varsaturi",
+      "durerea extrem de vie in epigastru, fara un simptom premergator, care se generalizeaza in tot abdomenul, dar cu o intesitate mai crescuta la locul aparitiei",
+      "durere surda in epigastru, cu iradiere in umarul drept, insotita de greturi si varsaturi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In ulcerul gastric si duodenal perforat, este caracteristica",
+    "options": [
+      "durerea epigastrica de intensitate deosebita \"ca o lovitura de pumnal\", urmata de rigiditatea abdomenului \"de lemn\"",
+      "durerea epigastrica de intensitate medie, insotita de rigiditatea abdomenului \"de lemn\""
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "durerea insidioasa localizata in hipocondrul drept, cu iradiere in epigastru 315.Caractersisticile durerii din peritonita acuta prin perforarea colecistului sunt",
+    "options": [
+      "apare in hipocondrul drept, coboara pe flancul drept in fosa iliaca dreapta, generalizandu-se apoi in tot abdomenul",
+      "apare brusc o durere vie in tot abdomenul, cu o intensitate usor crescuta in hipocondrul drept",
+      "apare o durere vie in epigastru, care se generalizeaza in tot abdomenul"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dintre urmatoarele lichide ajunse in peritoneu, patologic sau traumatic, foarte iritant este",
+    "options": [
+      "lichidul evacuat din intestinul subtire",
+      "sucul gastric",
+      "bila"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Peritonita acuta localizata este acea forma a peritonitei in care",
+    "options": [
+      "procesul infectios este localizat in regiunea in care a aparut",
+      "procesul infectios apare la nivelul peretelui abdominal",
+      "procesul infectios cuprinde tot abdomenul"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pentru combaterea unor complicatii frecvente dupa interventiile chirurgicale pe tubul digestiv, in caz de varsaturi, se iau urmatoarele masuri",
+    "options": [
+      "se administreaza medicatie antiemetica",
+      "se instaleaza sonda de aspiratie pentru evacuarea stazei gastrice si se administreaza, dupa caz, si medicatie antiemetica",
+      "se reia treptat alimentatia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Peritonita acuta localizata in regiunea pelviana se numeste",
+    "options": [
+      "peritonita apendiculara",
+      "peritonita genitala",
+      "pelviperitonita"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "De obicei, peritonitele acute localizate au tendinta de vindecare daca se aplica un tratament constand in",
+    "options": [
+      "repaos la pat, regim alimentar, antibioterapie, iar dupa \"racire\" interventie chirurgicala",
+      "pregatirea pacientului pentru interventia chirurgicala de urgenta",
+      "calmarea durerii si combaterea febrei"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Incolecistitaacuta,durereapoateficombatutasiprinmijloace nefarmacologice, aplicate local",
+    "options": [
+      "sac cu nisip",
+      "punga cu gheata",
+      "compresie calda"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Intr-o plaga abdominala penetranta cu evisceratie posttraumatica, se iau la locul accidentului urmatoarele masuri locale",
+    "options": [
+      "se executa manevre de reducere a anselor intestinale in interior si se pune un camp deasupra, fixat de o fasa compresiva",
+      "se aplica pansament foarte compresiv",
+      "nu se vor executa manevre de reducere a anselor intestinale, se pun deasupra campuri umede caldute fixate de o fasa necompresiva"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Urmatoarele afectiuni pot fi considerate peritonite acute localizate",
+    "options": [
+      "plastronul colecistic",
+      "colecistita acuta",
+      "apendicita acuta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La un pacient care prezinta ocluzie intestinala starea generala se altereaza progresiv si sindromul ocluziv este mai putin alarmant in",
+    "options": [
+      "tumora intestinala",
+      "volvulus intestinal",
+      "carcinomatoza peritoneala"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La alterarea starii generale din ocluzia intestinala un rol determinant il au tulburarile de hemodinamica deoarece",
+    "options": [
+      "intestinul absoarbe doar 10-20% din continutul intestinal",
+      "intestinul absoarbe 90% din continutul care circula prin el",
+      "intestinul absoarbe 70% din continutul care circula prin el"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Durerea intensa, colicativa in hipocondrul drept cu iradiere in umar si spate, insotita de febra si care nu cedeaza sau este foarte putin influentata de antialgice si antispastice este produsa de",
+    "options": [
+      "colecistita acuta",
+      "apendicita acuta subhepatica",
+      "pancreatita acuta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Conduita de urgenta intr-o colica biliara internata in spital consta in",
+    "options": [
+      "repaos la pat, regim alimentar hidric, analgetice, antispastice, antiemetice",
+      "recoltarea probelor de sange, perfuzie, calmarea durerii, combaterea infectiei, calmarea varsaturilor, punga cu gheata si interventie chirurgicala"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "tubaj duodenal, morfina, pregatire pentru interventia chirurgicala 328.Forma edematoasa a pancreatitei acute se caracterizeaza prin",
+    "options": [
+      "edemul sfincterului Oddi",
+      "cresterea in volum a pancreasului",
+      "proces supurativ al pancreasului"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "329.Pancreatita acuta hemoragica se caracterizeaza printr-o",
+    "options": [
+      "sangeraresubcapsularamasivasirupereacapsuleisubpresiunea hematomului",
+      "sangerare peritoneala"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "sangerare provocata sub presiunea hematomului splenic 330.Plagile abdominale perforante sunt plagile in care agentul traumatic",
+    "options": [
+      "a penetrat in peritoneu, dar nu a lezat nici un organ",
+      "a lezat si perforat unul sau mai multe organe",
+      "nu a penetrat peritoneul, dar a lezat unul sau mai multe organe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In vederea interventiei chirurgicale la un bolnav cu ocluzie intestinala este foarte bine sa se cunoasca",
+    "options": [
+      "ora ultimei mese",
+      "cauza care a determinat ocluzia",
+      "de cand s-a instalat ocluzia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ocluziile intestinale mecanice pot fi provocate de obstacole intrinseci",
+    "options": [
+      "volvulus intestinal",
+      "tumora intestinala maligna",
+      "tumora abdominala"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ancheta epidemiologica definitiva presupune",
+    "options": [
+      "efectuarea de catre medicul de familie ;",
+      "incheierea o data cu limitarea focarului ;",
+      "completarea anchetei preliminare cu investigatii si masuri eficiente si incheierea o data cu limitarea focarului"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Controlul medical periodic anual al personalului din sectorul alimentar se face prin",
+    "options": [
+      "examene clinice ;",
+      "coproculturi, rx.pulmonar, RBW;",
+      "ecografie abdominala"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dezinfectia urmareste",
+    "options": [
+      "indepartareaagentilor patogeni de pe tegumente si de pe diferite obiecte din mediul extern;",
+      "distrugerea agentilor patogeni din profunzime, prin mijloace fizice si chimice;",
+      "indepartarea si distrugerea agentilor patogeni de pe tegumente si diferite obiecte din mediul extern, prin mijloace fizice, chimice si mecanice"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Sterilizarea urmareste",
+    "options": [
+      "neutralizarea agentilor patogeni de pe toate suprafetele ce vin in contact cu bolnavul;",
+      "distrugerea tuturor microorganismelor patogene si nepatogene inclusiv a sporilor de pe obiecte cu utilizare medicala;",
+      "inactivarea agentilor patogeni existenti pe suprafata instrumentelor chiurgicale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Dezinsectia de combatere utilizeaza in mod curent",
+    "options": [
+      "metode fizice, chimice si biologice ;",
+      "metode genetice ;",
+      "ambele raspunsuri sunt corecte"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Angina ulceronecrotica, ca forma a anginei streptococice, se intalneste",
+    "options": [
+      "cu mult mai rar;",
+      "frecvent;",
+      "niciodata"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Din punct de vedere clinic, anginele se clasifica astfel",
+    "options": [
+      "angine : rosii, albe, ulceroase;",
+      "angine: rosii , necrotice;",
+      "angine : rosii , albe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tratamentul anginei streptococice consta in administrarea de",
+    "options": [
+      "penicilina ;",
+      "tetraciclina si cloramfenicol;",
+      "doxiciclina"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Scarlatina este o boala infectioasa produsa de",
+    "options": [
+      "streptococul beta-hemolitic din grupa A;",
+      "stafilococul auriu;",
+      "streptococul alfa hemolitic din grupa B"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Scarlatina se manifesta clinic in perioada de debut prin",
+    "options": [
+      "angina, febra moderata, eruptie fugace ;",
+      "febra mare, angina, cefalee, varsaturi;",
+      "febra, angina, tahicardie, varsaturi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Eruptia in scarlatina este",
+    "options": [
+      "micropapuloasa, aspra la pipait;",
+      "micropapuloasa, catifelata la pipait;",
+      "veziculara"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pentru scarlatina distinctiv este semnul",
+    "options": [
+      "Grozovici - Pastia, cu elemente purpurice dispuse linear la nivelul plicei cotului si inghinal;",
+      "Koplik - roseata difuzaa mucoasei bucale, o dunga alba pe gingii (dunga Appert);",
+      "Masca Filatov, semnul Pastia si ciclul lingual"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Exantemul scarlatinos apare mai intai",
+    "options": [
+      "pe gat si torace;",
+      "membre superioare;",
+      "fata anterioara a toracelui si abdomen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Angina rosie + febra + eruptie micropapuloasa pe trunchi, respectand fata, va sugereaza",
+    "options": [
+      "varicela;",
+      "rujeola;",
+      "scarlatina"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Copilul cu scarlatina este tratat",
+    "options": [
+      "obligatoriu in spital de catre medical specialist ;",
+      "la domiciliu ;",
+      "de catre medical scolar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Manifestarile clinice in scarlatina sunt determinate de actiunea",
+    "options": [
+      "streptococilor alfa- hemolitici;",
+      "streptococci beta -hemolitici;",
+      "toxina scarlatinoasa (Dick) eliberata de streptococul beta- hemolitic grupa A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Angina din scarlatina are urmatoarele caractere",
+    "options": [
+      "rosie, cu false membrane aderente care se refac rapid, extensive la pilieri, lueta, sangerande;",
+      "rosie sau eritemato-pultacee, rar ulcero-necrotica ;",
+      "eritematoasa difuza"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In dianosticul scarlatinei de importanta majora este ciclul lingual cu urmatoarele caracteristici",
+    "options": [
+      "limba saburala, smeurie, rosie inchis, lucioasa;",
+      "limba smeurie, reliefare a papilelor fungiforme;",
+      "limba saburala ce se descuameaza in sens antero-posterior"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tratamentul simptomatic in scarlatina se adreseaza",
+    "options": [
+      "febrei, cefaleeei si durerilor la deglutitie;",
+      "febrei si catarului respirator ;",
+      "febrei, poliadenopatiei occipitale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In scarlatina, testarea receptivitatii se face prin testul intradermic Dick, test de",
+    "options": [
+      "imunitate;",
+      "alergie ;",
+      "nici una dintre afirmatii nu este corecta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Complicatiile scarlatinei pot fi",
+    "options": [
+      "toxice, septice, postinfectioase;",
+      "suprainfectii bacteriene, crup, encefalita;",
+      "poliartrite, efect teratogen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In rujeola, perioada de incubatie dureaza",
+    "options": [
+      "3-6 zile;",
+      "8-11 zile;",
+      "14-21 zile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Eruptia maculopapuloasa in rujeola incepe la",
+    "options": [
+      "fata - dupa urechi, pe frunte si obraji ;",
+      "gat - torace;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "membre 356.Evolutia eruptiei in rujeola",
+    "options": [
+      "da descuamatie furfuracee precoce, in lambouri tardive;",
+      "nu lasa urme;",
+      "da pigmentare cafenie si descuamatie foarte fina"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cresterea febrei in perioada de stare si de palire a eruptiei",
+    "options": [
+      "este normala;",
+      "este semn de complicatie prin suprainfectie bacteriana;",
+      "este lipsita de importanta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Semnul Koplick, patognomonic in rujeola, dispare",
+    "options": [
+      "in prima zi de eruptie ;",
+      "in a treia zi dupa ce eruptia paleste;",
+      "in perioada de convalescenta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Importanta rubeolei este data de",
+    "options": [
+      "efectul teratogen asupra sarcinii in primele 3-4 luni cu aparitia unor malformatii congenitale ;",
+      "complicatiile toxice, septice postinfectioase ;",
+      "evolutia asimptomatica"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Eruptia in rubeola are urmatoarele caracteristici",
+    "options": [
+      "macule mici de culoare roz, fara tendinte la confluente;",
+      "micropapuloasa, cu fond congestiv ;",
+      "maculopapuloasa, cu tendinte la confluente"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Incubatia in rubeola dureaza",
+    "options": [
+      "2-3 saptamani;",
+      "1-2 saptamani;",
+      "1 saptamana"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "362.Febra + catar respirator + adenopatie sunt simptome care sugereaza",
+    "options": [
+      "rujeola;",
+      "rubeola;",
+      "scarlatina"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": ".Legislatia actuala prevede ca raportarea cazurilor de rubeola sa se efectueze",
+    "options": [
+      "trimestrial, numeric;",
+      "lunar, nominal ;",
+      "in 24 ore de la depistare, nominal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In perioada de stare, eruptia cu aspect polimorf: macule, papule, vezicule clare ori tulburi si cruste hematice apare in",
+    "options": [
+      "scarlatina;",
+      "rujeola;",
+      "varicela"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Distributia centripetal a eruptiei (sunt mai multe elemente pe trunchi si radacina membrelor) apare in",
+    "options": [
+      "varicela;",
+      "rubeola;",
+      "angina"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Eruptia este pruriginoasa in",
+    "options": [
+      "scarlatina;",
+      "rubeola;",
+      "varicela"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Parotidita epidemica este cunoscuta si sub numele de",
+    "options": [
+      "oreion;",
+      "varsat;",
+      "pojar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tabloul clinic cu debut relativ brusc, febra, cefalee si jena in lojile parotidiene apare in",
+    "options": [
+      "spondiloza cervicala;",
+      "parotidita epidemica;",
+      "rubeola"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In tusea convulsiva, sursa de infectie este",
+    "options": [
+      "omul bolnav cu forme tipice si atipice;",
+      "animalele;",
+      "purtatorii faringieni de streptococ"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Semnelecatarale respiratorii : rinita, raguseala, tuse, injectie conjunctivala, aspect \"facies plans\", subfebrilitate, apar in",
+    "options": [
+      "rujeola;",
+      "tuse convulsiva;",
+      "rubeola"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Primovaccinarea in poliomielita consta indoua administrari orale, la 2 luni interval, in lunile de",
+    "options": [
+      "iarna-primavara;",
+      "vara- toamna;",
+      "toamna - iarna"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A treia vaccinare pentru poliomielita se face",
+    "options": [
+      "in primul an de scoala;",
+      "liceu;",
+      "maturitate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Meningita pneumococica detine prioritatea ca frecventa in etiologia meningitelor purulente la",
+    "options": [
+      "copii;",
+      "adulti peste 40 ani;",
+      "nou-nascut si sugar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sindromul encefalitic - o inmanunchere de semne si simptome- care exprima afectarea creierului de cauza infectioasa si postinfectioasa, apare in",
+    "options": [
+      "hepatita acuta virala;",
+      "encefalita;",
+      "toxiinfectie alimentara"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tablou clinic cu varsaturi, colici abdominale, scaune diareice, defineste",
+    "options": [
+      "hepatita acuta virala;",
+      "toxiinfectia alimentara;",
+      "scarlatina"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tabloul clinic ce cuprinde scaune frecvente, moi, lichide, abundente, cu aspect omogen, de culoare galben verzui, apare in",
+    "options": [
+      "holera;",
+      "sallmoneloza;",
+      "dizenterie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Impiedicarea proliferarii agentului patogen existent in unele alimente se face prin pastrarea la temperatura de",
+    "options": [
+      "-5grade C;",
+      "5grade C;",
+      "-10 grade C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Bacilul tific are patogenitate exclusiva pentru",
+    "options": [
+      "animal;",
+      "om;",
+      "om si animal, in egala masura"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Febra tifoida se transmite pe cale",
+    "options": [
+      "digestiva;",
+      "aerogena;",
+      "parenterala"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Scaunele diareice verzi ca in \" zeama de mazare\", omogene, apar in",
+    "options": [
+      "sallmonela;",
+      "febra tifoida;",
+      "peritonita"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Scaune numeroase, mucopiosanguinolente, tenesme si uneori febra, stare toxica, subliniaza sindromul clinic din",
+    "options": [
+      "tetanos;",
+      "dizenterie;",
+      "hepatita virala"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Calea de transmitere a dizenteriei este",
+    "options": [
+      "aerogena;",
+      "fecal-orala;",
+      "parenterala"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Rol primar in transmiterea dizenteriei il au",
+    "options": [
+      "contaminarea hainelor;",
+      "mainile murdare;",
+      "mustele"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pentru bolnavii care lucreaza in sector alimentar, colectivitati de copii, este obligatoriu controlul, dupa tratament, prin recoltarea de",
+    "options": [
+      "1 coprocultura;",
+      "3 coproculturi;",
+      "5 coproculturi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": ". Solul, praful, obiectele contaminate, mijlocesc patrunderea sporilor prin",
+    "options": [
+      "leziuni ale tegumentelor;",
+      "digestive;",
+      "aerogen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Morbiditatea prin tetanos a scazut foarte mult prin generalizarea vaccinarii cu",
+    "options": [
+      "anatoxina tetanica;",
+      "verorab;",
+      "anatoxia difterica"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Debutul, de obicei lent, cu \"trismus\" precedat uneori de tresariri musculare la nivelul plagii este semn patognomonic pentru",
+    "options": [
+      "scarlatina;",
+      "tetanos;",
+      "dizenterie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "\"Rasul sardonic\" apare in",
+    "options": [
+      "scarlatina;",
+      "rujeola;",
+      "tetanos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Stadiul compensat se caracterizeza prin",
+    "options": [
+      "hipersplenism;",
+      "hepatomegalie;",
+      "simptomele nu sunt evidente;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Legaturile vasculare de varice esofagiene se fac",
+    "options": [
+      "in scop profilactic;",
+      "de necessitate;",
+      "cand starea bolnavului nu permite interventii de amploare;"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sonda cu balon aplicata in scop hemostatic in cazul sangerarii varicelor esofagiene este",
+    "options": [
+      "Foley;",
+      "Blackmore;",
+      "Sonda endotraheala;"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Examenul radiologic într-o entorsa este",
+    "options": [
+      "obligatoriu",
+      "nu este absolut necesar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "obligatoriu atunci când banuim o leziune mai importanta 393.Leziunile capsulei articulare în cazul luxatiilor sunt",
+    "options": [
+      "mai importante decât cele din entorse",
+      "mai putin importante decât cele din entorse",
+      "nu se produc leziuni articulare"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": ".Pentru a calma durerea extrem de vie în cazul unei luxatii",
+    "options": [
+      "se administreaza analgetice majore",
+      "se readuce cât mai urgent capetele articulatiei în pozitie normala",
+      "se administreaza sedative"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Aplicarea atelelor se va face astfel încât sa depaseasca întotdeauna",
+    "options": [
+      "articulatia de deasupra zonei fracturate",
+      "articulatia de dedesuptul zonei fracturate",
+      "articulatia de deasupra si de dedesuptul zonei fracturate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": ".Din urmatoarele leziuni traumatice osteo-articulare este mai grava",
+    "options": [
+      "fractura în \"lemn verde\"",
+      "luxatia deschisa a cotului",
+      "fractura diafizei peroneului"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "397 In cursul unei luxatii urmatoarele simptome, dar si complicatiilepot avea urmari grave",
+    "options": [
+      "hemartroze, hidrartroze",
+      "compresiunile vasculare si nervoase",
+      "deformarea regiunii si impotenta functionala"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cele mai frecvente recidive ale luxatiilor apar la",
+    "options": [
+      "articulatia scapulo-humerala",
+      "articulatia coxo-femurala",
+      "articulatia cotului"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Recunostemdin fracturile de mai jos cele clasificate dupa mecanismul de producere",
+    "options": [
+      "fracturi prin îndoire si rasucire",
+      "fracturi închise si deschise"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "fracturi complete si incomplete 400.Prin fractura deschisa se întelege",
+    "options": [
+      "fractura acoperita de piele,dar cu leziuni masive a muschilor, tendoanelor si vaselor",
+      "fractura care produce leziuni ale organelor viscerale",
+      "fractura în care pielea a fost lezata si osul ajunge în contact cu exteriorul"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "401.Complicatiile de mai joscare sunt mai frecvente în fracturile deschise comparativ cu cele închise sunt",
+    "options": [
+      "embolii pulmonare si cerebrale",
+      "socul traumatic si hemoragic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "procesele septice de osteita sau osteomielita 402.Din fracturile de mai jos sunt fracturi complete doar",
+    "options": [
+      "fractura în \"vârf de clarinet\"",
+      "fractura în \"lemn verde\"",
+      "fractura prin înfundare 403.Fractura cominutiva reprezinta",
+      "fractura mai multor oase ale aceluiasi membru",
+      "fracturi multiple ale oaselor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In fracturile primelor patru coastepot aparea ca leziuni concomitente",
+    "options": [
+      "leziuni pulmonare cu pneumotorax",
+      "rupturi ale ficatului, rinichiului, splinei",
+      "leziuni pulmonare cu hemotorax"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ccare din fracturile de mai jos este mai grava",
+    "options": [
+      "fractura de col femural",
+      "fractura deschisa în 1/3 medie a antebratului",
+      "fractura oaselor gambei"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "În cazul unei fracturi fara deplasare, la spital se I-au urmatoarele masuri",
+    "options": [
+      "se pune diagnostic clinic si radiologic",
+      "se face anestezie generala"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "se asigura reducerea fracturii 408..Aparatul gipsat trebuie sa cuprinda",
+    "options": [
+      "numai focarul de fractura",
+      "focarul de fractura si articulatia de dedesupt",
+      "articulatia de deasupra si dedesuptul focarului de fractura"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": ".Din fracturile de mai jos nu se pot reduce corect pe cale ortopedica si este nevoie de reducere chirurgicala la",
+    "options": [
+      "fractura de rotula",
+      "fractura de humerus",
+      "fractura de olecran"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Urmatoarele plagi se datoreaza agentilor mecanici?",
+    "options": [
+      "plaga prin caldura, agenti ionizanti",
+      "plaga prin întepare, taiere, prin muscatura"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "plaga produsa de frig, acizi, raze gama 411.Prin plagi perforante intelegem",
+    "options": [
+      "plagi ale tegumentelor",
+      "plagi care patrund în cavitatile naturale",
+      "plagi care patrund în cavitatile naturale si lezeaza unele organe din cavitatea respectiva"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Prin plagi recente intelegem",
+    "options": [
+      "plagi produse în ziua respectiva",
+      "plagi produse sub 6-8 ore",
+      "plagi produse în ultimele 48 ore"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In cazul muscaturilor de sarpe si întepaturilor de insecte veninoase se practica urmatoarele manevre",
+    "options": [
+      "incizia si excizia tesutului cutanat în zona lezata",
+      "aplicarea garoului deasupra leziunii",
+      "administrare de antivenin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Rabia se poate transmite prin",
+    "options": [
+      "întepaturi ale unor inserte",
+      "plagi muscate de animale",
+      "inocularea veninului de sarpe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Alaturi de tratarea corecta a plagii se va aplica o imobilizare în aparat gipsat in urmatoarele situatii",
+    "options": [
+      "plagi cu hemoragie mare",
+      "plagi în care sunt întâlnite mase mari vasculare si tendoane",
+      "plagi cu leziuni osteo-articulare"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Aplicarea unui pansament umed este indicata in",
+    "options": [
+      "plagile recente",
+      "plagile care secreta abundent",
+      "tromboflebite"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Pentru fixarea unui pansament la nivelul capului se poate folosi",
+    "options": [
+      "fixare cu leucoplast",
+      "fixare cu plasa autoadeziva",
+      "fixare cu basma (capelina)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Atrofierea muschilor si scaderea tonusului în general poate aparea la bolnavii imobilizati datorita",
+    "options": [
+      "pozitiei incorecte",
+      "din cauza imobilizarii îndelungate",
+      "din cauza aplicarii unui tratament necorespunzator"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": ".Ventilatia dificila a plamânilor la bolnavul imobilizat timp îndelungat poate produce",
+    "options": [
+      "pneumonii hipostatice",
+      "bronhopneumonii",
+      "pleurezii"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": ".Bolnavii imobilizati la pat vor fi scosi la aer liber (terasa, balcon) cu ajutorul",
+    "options": [
+      "patului, fara ca el sa fie mobilizat",
+      "în carucioare rulante",
+      "este contraindicata iesirea din salon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": ".Pentru prevenirea escarelor la bolnavii imobilizati carora nu le este permisa mici o miscare se vor folosi",
+    "options": [
+      "saltele pneumatice",
+      "saltele pneumatice, compartimentate, antidecubit",
+      "saltele din material plastic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Coma diabetica poate fi declansata de",
+    "options": [
+      "efort fizic prelungit",
+      "oprirea sau diminuarea nejustificata a tratamentului cu insulina",
+      "consum de alcool"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Semnele majore din coma diabetica sunt",
+    "options": [
+      "respiratie Kussmaul, deshidratare globala, tulburari de cunostinta (coma calma)",
+      "agitatie psihomotorie",
+      "cefalee, diplopie, anxietate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pacientul cu coma diabetica prezinta urmatoarele simptome",
+    "options": [
+      "astenie, somnolenta - coma",
+      "convulsii tonico-clonice",
+      "pierderea monoculara sau binoculara a vederii"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Primulgestterapeutic,atuncicânddiferentiereadintrecoma hipoglicemica si coma diabetica este greu de facut, consta în",
+    "options": [
+      "administrarea de 20 - 30 ml glucoza hipertonica",
+      "recoltarea probelor de laborator",
+      "administrarea i.v. a 20 UI insulina rapida"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tulburarile electrolitice care se produc în coma diabetica sunt",
+    "options": [
+      "cresterea ph-ului sanguin",
+      "scaderea clorului sanguin",
+      "scaderea potasiului, clorului si sodiului sanguine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Rehidratarea pacientului în coma diabetica va începe cu administrarea de",
+    "options": [
+      "Manitol 20% în perfuzie lenta (30 - 60 min)",
+      "ser fiziologic - 1000 ml în primele 20 de minute",
+      "ser glucozat 5%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In coma diabetica se pot administra solutii hipertonice de glucoza 20% tamponata cu insulina atunci când",
+    "options": [
+      "apar primele semne de constiinta",
+      "se înregistreaza cresterea rezervei alcaline",
+      "glicemia a scazut sub 300 mg%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Insulina trebuie pastrata",
+    "options": [
+      "la temperatura camerei",
+      "în frigider la temperatura de +2 - +70",
+      "ambele variante sunt corecte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Manifestarile respiratorii care apar în socul anafilactic sunt",
+    "options": [
+      "polipnee cu expiratie prelungita si tiraj",
+      "respiratie Cheyne-Stockes",
+      "crize de dispnee cu respiratie suieratoare, provocata de bronhoconstrictie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Combaterea durerii în soc se face cu",
+    "options": [
+      "medicamente indicate de medic",
+      "xilina 0,5 - 1%",
+      "mialgin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In cadrul socului se descriu urmatoarele stadii",
+    "options": [
+      "soc compensat, soc decompensat, coma",
+      "soc compensat, soc ireversibil",
+      "soc decompensat, coma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Diabetul zaharat se caracterizeaza prin",
+    "options": [
+      "perturbarea metabolismului glucidic",
+      "cresterea nivelului glicemiei postprandiale",
+      "perturbarea metabolismului mineral"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Proba hiperglicemiei provocate se face prin",
+    "options": [
+      "administrarea orala a 450 g glucoza/1 m2 suprafata corporala dizolvata în 300 ml apa",
+      "administrarea orala de 100 g glucoza pulbere dizolvata în 300 ml apa",
+      "administrarea i.v. de glucoza 33%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cauza asa-numitei \"sângerari în propriile tesuturi\" în cadrul socului traumatic este",
+    "options": [
+      "vasodilatatia la locul de actiune a agentului traumatic",
+      "vasodilatatia masiva la locul actiunii agentului traumatic dar si la distanta",
+      "hemoragia intratisulara"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Soculhemoragicaparedupahemoragiiacutecândpierderile depasesc",
+    "options": [
+      "20% din masa circulanta",
+      "30% din masa circulanta",
+      "orice hemoragie e susceptibila de a produce soc hemoragic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Injectia cu adrenalina sau simpaticomimetice in stadiul de soc compensat poate avea urmatoarele efecte",
+    "options": [
+      "ridica tonusul bolnavului",
+      "agraveaza anoxia tisulara si grabesc decompensarea",
+      "favorizeaza iesirea bolnavului din starea de soc"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Diabetul zaharat este o boala de metabolism cu evolutie cronica si se datoreaza",
+    "options": [
+      "distrugerii pancreasului",
+      "insuficientei relative de insulina",
+      "insuficientei absolute sau relative de insulina în organism"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Criteriile pentru diagnosticul de pneumonie, ca infectie nozocomiala, includ",
+    "options": [
+      "examen de sputa;",
+      "examen radiologic;",
+      "combinatii diferite ale unor dovezi clinice, radiologice si de laborator"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Scopul aplicarii Precautiunilor Universale este de a",
+    "options": [
+      "preveni transmiterea infectiilor pe cale sanguina personalului , la locul de munca;",
+      "preveni transmiterea infectiilor nozocomiale ;",
+      "preveni transmiteriea infectiilor, pe cale aerogena, in unitatile sanitare cu paturi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": ".Manifstarea clinica caracteristica litiazei renale este",
+    "options": [
+      "infectia urinara;",
+      "insuficienta renala;",
+      "colica renala"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sediul durerii in colica renala se afla in",
+    "options": [
+      "regiunea lombara;",
+      "regiunea toracala;",
+      "regiunea suprapubiana"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Durerea lombara cu iradiere in organele genitale externe este caracteristica",
+    "options": [
+      "insuficientei renale acute ;",
+      "insuficientei renale cronice;",
+      "colicii renale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Uremia este stadiul terminal al",
+    "options": [
+      "insuficientei renale cronice ;",
+      "pielonefritei cronice ;",
+      "pielonefritei acute"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": ".In faza de izostenurie, densitatea urinei oscileaza intre",
+    "options": [
+      "1017-1020 ;",
+      "1015-1017 ;",
+      "1010-1011"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cel mai important semn in insuficienta renala cronica este",
+    "options": [
+      "nicturia ;",
+      "disuria ;",
+      "poliuria"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In insuficienta renala acuta, diureticele se vor administra",
+    "options": [
+      "dupa corectarea volemiei;",
+      "inainte de corectarea volemiei;",
+      "dupa administrarea de vasodilatatoare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Compresiunea din masajul cardiac extern se face",
+    "options": [
+      "pe 1/3 inferioara a sternului;",
+      "spre apendicele xifoid;",
+      "pe coaste, in stanga sternului"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Asistentul medical",
+    "options": [
+      "nu poate exercita nici o alta activitate",
+      "poate exercita o alta activitate cu conditia ca aceasta sa fie compatibila cu demnitatea profesionala",
+      "poate participa la actiuni de reclama si publicitate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Informatiile obtinute referitoare la pacienti pot fi împartasite",
+    "options": [
+      "echipei medicale",
+      "familiei"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "publicatiilor stiintifice 451.Asistentul medical are obligatia",
+    "options": [
+      "de a lua masuri de acordare a primului ajutor medical doar daca este prezent si medicul",
+      "sa transporte pacientul la unitatea spitaliceasca",
+      "de a lua masuri de acordare a primului ajutor medical, indiferent de persoana, locul sau situatia în care se gaseste"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "452.Asistentul medical trebuie sa trateze cu responsabilitate si profesionalism",
+    "options": [
+      "pacientii mai tineri",
+      "toti pacientii, indiferent de vârsta, conditie sociala sau economica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "pacientii imobilizati la pat 453.Asistentul medical",
+    "options": [
+      "nu este prestator de servicii",
+      "este prestator de servicii",
+      "poate propune în situatii speciale pacientilor folosirea unor remedii, proceduri insuficient validate pa plan stiintific sau medical"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Protectiaasistentuluimedicalpentruriscurilecedecurgdinpractica profesionala se realizeza de catre",
+    "options": [
+      "fiecare asistent medical prin societatile de asigurari",
+      "angajator, prin societatile de asigurari",
+      "nu este necesara protectiaasistentului medical"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Angajarea si promovarea profesionala a asistentului medical în sistemul sanitar public se realizeaza",
+    "options": [
+      "dupa absolvirea scolii postliceale sanitare",
+      "dupa obtinerea Autorizatiei de libera practica",
+      "prin concurs, potrivir legii"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Alegerile pentru organele de conducere ale Ordinului Asistentilor Medicali din România, la nivel natioanal, judetean, al municipiului Bucuresti se organizeaza",
+    "options": [
+      "o data la 2 ani",
+      "o data la 3 ani",
+      "o data la 4 ani"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Adunarea generala a Ordinului Asistentilor Medicali din România se întruneste",
+    "options": [
+      "anual",
+      "de doua ori pe an",
+      "ori de câte ori este nevoie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Biroul Executiv al Ordinului Asistentilor Medicali din România este alcatuit din",
+    "options": [
+      "presedinte, 3 vicepresedinti, un secretar",
+      "presedinte, 2 vicepresedinti, un secretar",
+      "presedinte, 4 vicepresedinti, un secretar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": ". Care din agentii patogeni (bacterii, virusuri, protozoare, fungi) pot produce infectii nosocomiale?",
+    "options": [
+      "nici unul;",
+      "toti;",
+      "numai bacteriile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": ".Dauneleprovocatepacientuluiprinnerespectareaprevederilor Or.MSF.984/1994 implica dupa sine responsabilitatea",
+    "options": [
+      "institutiei;",
+      "individuala;",
+      "individuala sau dupa caz a institutiei;",
+      "BIBLIOGRAFIE = ASISTENT MEDICAL GENERALIST =",
+      "C. Borundel - Manual de medicina interna pentru cadre medii-Editura All Bucuresti, anul1995;"
+    ],
+    "correctIndex": 2
+  }
+]
